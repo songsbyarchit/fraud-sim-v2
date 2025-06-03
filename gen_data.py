@@ -15,7 +15,7 @@ np.random.seed(42)
 random.seed(42)
 
 # Constants
-num_messages = 200_000
+num_messages = 50000
 start_date = datetime(2024, 11, 15)
 end_date = datetime(2025, 1, 15)
 message_interval = (end_date - start_date) / num_messages
@@ -173,16 +173,24 @@ for i in range(num_messages):
 
     delivery_status = "Delivered" if error_choice["error_code"] == "E0" else "Failed"
 
-    is_fraud = (
+    fraud_base_prob = 0.9 if is_christmas or is_new_year else 0.7
+
+    fraud_boost = random.random() < fraud_base_prob if (
         content_type in ["otp", "spam"] and error_choice["is_regex_flag"]
-        and random.random() < random.uniform(0.8, 0.95)  # Adds unpredictability
-    )
+    ) else False
+
+    is_fraud = fraud_boost
+
 
     fraud_type = (
         random.choice(["otp_abuse", "code_misuse"]) if "OTP" in message_content else
         random.choice(["spoofed_id", "link_fraud", "brand_impersonation"]) if content_type == "spam" else
         "none"
     )
+
+    base_rate = 0.0015 if aggregator['tier'] == "tier-2" else 0.0025
+    country_multiplier = 1.3 if destination_country in ["Nigeria", "Palestine", "India"] else 1.0
+    hop_multiplier = 1 + 0.05 * random.randint(0, 2)
 
     messages.append({
         "message_id": message_id,
@@ -210,7 +218,7 @@ for i in range(num_messages):
             f"{destination_country} Gateway"
         ])),
         "hop_details": f"{aggregator['aggregator_name']} -> {destination_country} Gateway",
-        "total_cost_gbp": round(random.uniform(0.0015, 0.0050), 5),
+        "total_cost_gbp": round(base_rate * country_multiplier * hop_multiplier, 5),
         "direct_route": random.choice([True, False]),
         "fraud_reported_by_agg": is_fraud and random.choice([True, False]),
         "aggregator_error_code": error_choice["error_code"] if delivery_status == "Failed" else None
