@@ -107,11 +107,12 @@ for i in range(num_messages):
             "WIN A FREE GIFT NOW!",
             "Click here to claim your reward",
             "ACT NOW: Get exclusive access!",
-            "Visit http://offers-secure.com/claim"
-            "Check your reward: http://now-win.biz"
-            "Click https://login-alert.net to confirm"
+            "Visit http://offers-secure.com/claim",
+            "Check your reward: http://now-win.biz",
+            "Click https://login-alert.net to confirm",
             "GIFT ALERT: You're selected. Click now!"
         ]
+
         message_content = random.choice(spam_templates)
 
     else:
@@ -181,12 +182,46 @@ error_codes_df.to_csv("synthetic_data/error_codes.csv", index=False)
 merged_df = pd.merge(messages_df, billing_df, on="message_id", how="inner")
 merged_df['hour'] = merged_df['timestamp'].dt.floor('H')
 
-# Generate visualisations
-# 1. Message Volume Over Time
+# 2. Fraud Volume Over Time
 plt.figure()
-merged_df.groupby('hour').size().plot(title='Message Volume Over Time')
+merged_df[merged_df['is_fraud']].groupby('hour').size().plot(title='Fraud Messages Over Time', color='red')
 plt.xlabel("Hour")
+plt.ylabel("Fraud Messages")
+plt.grid(True)
+plt.tight_layout()
+plt.show()
+
+# 3. Error Code Breakdown
+plt.figure()
+merged_df['error_code'].value_counts().plot(kind='bar', title='Error Code Breakdown')
+plt.xlabel("Error Code")
+plt.ylabel("Count")
+plt.grid(True)
+plt.tight_layout()
+plt.show()
+
+# 4. Cost per Aggregator
+plt.figure()
+merged_df.groupby('aggregator_id')['total_cost_gbp'].mean().plot(kind='bar', title='Avg Cost per Aggregator')
+plt.xlabel("Aggregator")
+plt.ylabel("Avg Cost (£)")
+plt.grid(True)
+plt.tight_layout()
+plt.show()
+
+# 5. Message Volume by Country
+plt.figure()
+merged_df['destination_country'].value_counts().plot(kind='bar', title='Message Volume by Country')
+plt.xlabel("Country")
 plt.ylabel("Messages")
 plt.grid(True)
+plt.tight_layout()
+plt.show()
+
+# 6. Fraud Share by Aggregator
+plt.figure()
+fraud_split = merged_df[merged_df['is_fraud']].groupby('aggregator_id').size()
+fraud_split.plot(kind='pie', autopct='%1.1f%%', title='Fraud Share by Aggregator')
+plt.ylabel("")
 plt.tight_layout()
 plt.show()

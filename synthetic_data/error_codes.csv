@@ -1,0 +1,5 @@
+error_code,description,is_regex_flag,severity
+E100,Temporary failure,False,low
+E403,Regex content spam,True,high
+E500,Blocked by aggregator,False,medium
+E0,No error,False,low

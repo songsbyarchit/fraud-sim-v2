@@ -1,0 +1,4 @@
+aggregator_id,aggregator_name,country,tier,trust_score
+AGG1,JPN_Agg1,Japan,tier-1,0.95
+AGG2,UK_Agg1,United Kingdom,tier-1,0.9
+AGG3,IMImobile,United Kingdom,tier-2,0.98
