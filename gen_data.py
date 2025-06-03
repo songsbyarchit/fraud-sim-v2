@@ -28,9 +28,13 @@ aggregators = [
 ]
 
 customers = [
-    {"customer_id": "C1", "customer_name": "Webex Connect", "vertical": "SaaS", "country": "United Kingdom"},
-    {"customer_id": "C2", "customer_name": "RetailX", "vertical": "Retail", "country": "France"},
-    {"customer_id": "C3", "customer_name": "HealthPro", "vertical": "Healthcare", "country": "Germany"},
+    {"customer_id": "C1", "customer_name": "RetailX", "vertical": "Retail", "country": "France"},
+    {"customer_id": "C2", "customer_name": "HealthPro", "vertical": "Healthcare", "country": "Germany"},
+    {"customer_id": "C3", "customer_name": "AutoSys", "vertical": "SaaS", "country": "USA"},
+    {"customer_id": "C4", "customer_name": "LoanQuick", "vertical": "Finance", "country": "India"},
+    {"customer_id": "C5", "customer_name": "EventComms", "vertical": "Media", "country": "Brazil"},
+    {"customer_id": "C6", "customer_name": "VerifyMe", "vertical": "Security", "country": "United Kingdom"},
+    {"customer_id": "C7", "customer_name": "PulseAlerts", "vertical": "Healthcare", "country": "Japan"}
 ]
 
 error_codes = [
@@ -55,14 +59,50 @@ current_time = start_date
 
 for i in range(num_messages):
     message_id = str(uuid.uuid4())
-    timestamp = current_time
+
+    # Inject mild or sharp traffic spikes based on day
+    is_christmas = current_time.month == 12 and current_time.day == 25
+    is_new_year = current_time.month == 1 and current_time.day == 1
+    days_to_christmas = (datetime(2024, 12, 25) - current_time).days
+    days_to_new_year = (datetime(2025, 1, 1) - current_time).days
+
+    # Baseline jitter
+    base_jitter = random.gauss(mu=message_interval.total_seconds()/60, sigma=1.5)
+
+    # Gradual spike up to holidays (more traffic + fraud)
+    if 0 < days_to_christmas <= 5 or 0 < days_to_new_year <= 5:
+        base_jitter *= random.uniform(0.6, 0.9)  # condense timestamps (more msgs/hour)
+
+    # Sharp spike on the day
+    if is_christmas or is_new_year:
+        base_jitter *= random.uniform(0.2, 0.4)
+
+    # Simulated surge: randomly inject bursty patterns ~2% of time
+    if random.random() < 0.02:
+        base_jitter *= random.uniform(0.3, 0.5)
+
+    timestamp = current_time + timedelta(minutes=base_jitter)
+    current_time = timestamp
+
+
     current_time += message_interval
 
     customer_pool = (
-        [customers[0]] * random.randint(15, 22) +  # Webex Connect
-        [customers[1]] * random.randint(8, 12) +   # RetailX
-        [customers[2]] * random.randint(5, 10)     # HealthPro
-    )
+    [customers[0]] * random.randint(12, 18) +   # RetailX
+    [customers[1]] * random.randint(10, 14) +   # HealthPro
+    [customers[2]] * random.randint(8, 12) +    # AutoSys
+    [customers[3]] * random.randint(7, 10) +    # LoanQuick
+    [customers[4]] * random.randint(6, 9) +     # EventComms
+    [customers[5]] * random.randint(6, 9) +     # VerifyMe
+    [customers[6]] * random.randint(4, 7)       # PulseAlerts
+)
+
+    customer = random.choice(customer_pool)
+
+    # Slightly bias fraud for RetailX near holidays
+    if customer["customer_name"] == "RetailX" and (is_christmas or is_new_year or random.random() < 0.05):
+        content_type = random.choices(["otp", "spam"], weights=[0.3, 0.7])[0]  # Higher spam risk
+
     customer = random.choice(customer_pool)
 
     aggregator_pool = (
@@ -182,46 +222,43 @@ error_codes_df.to_csv("synthetic_data/error_codes.csv", index=False)
 merged_df = pd.merge(messages_df, billing_df, on="message_id", how="inner")
 merged_df['hour'] = merged_df['timestamp'].dt.floor('H')
 
+# Combined Dashboard of All Key Metrics
+fig, axs = plt.subplots(3, 2, figsize=(15, 12))
+fig.suptitle('Fraud, Cost, and Delivery Insights', fontsize=16)
+
+# 1. Message Volume Over Time
+merged_df.groupby('hour').size().plot(ax=axs[0, 0], title='Message Volume Over Time')
+axs[0, 0].set_xlabel("Hour")
+axs[0, 0].set_ylabel("Messages")
+axs[0, 0].grid(True)
+
 # 2. Fraud Volume Over Time
-plt.figure()
-merged_df[merged_df['is_fraud']].groupby('hour').size().plot(title='Fraud Messages Over Time', color='red')
-plt.xlabel("Hour")
-plt.ylabel("Fraud Messages")
-plt.grid(True)
-plt.tight_layout()
-plt.show()
+merged_df[merged_df['is_fraud']].groupby('hour').size().plot(ax=axs[0, 1], color='red', title='Fraud Messages Over Time')
+axs[0, 1].set_xlabel("Hour")
+axs[0, 1].set_ylabel("Fraud Count")
+axs[0, 1].grid(True)
 
 # 3. Error Code Breakdown
-plt.figure()
-merged_df['error_code'].value_counts().plot(kind='bar', title='Error Code Breakdown')
-plt.xlabel("Error Code")
-plt.ylabel("Count")
-plt.grid(True)
-plt.tight_layout()
-plt.show()
+merged_df['error_code'].value_counts().plot(kind='bar', ax=axs[1, 0], title='Error Code Breakdown')
+axs[1, 0].set_xlabel("Error Code")
+axs[1, 0].set_ylabel("Count")
+axs[1, 0].grid(True)
 
-# 4. Cost per Aggregator
-plt.figure()
-merged_df.groupby('aggregator_id')['total_cost_gbp'].mean().plot(kind='bar', title='Avg Cost per Aggregator')
-plt.xlabel("Aggregator")
-plt.ylabel("Avg Cost (£)")
-plt.grid(True)
-plt.tight_layout()
-plt.show()
+# 4. Avg Cost per Aggregator
+merged_df.groupby('aggregator_id')['total_cost_gbp'].mean().plot(kind='bar', ax=axs[1, 1], title='Avg Cost per Aggregator')
+axs[1, 1].set_xlabel("Aggregator")
+axs[1, 1].set_ylabel("Avg £")
+axs[1, 1].grid(True)
 
 # 5. Message Volume by Country
-plt.figure()
-merged_df['destination_country'].value_counts().plot(kind='bar', title='Message Volume by Country')
-plt.xlabel("Country")
-plt.ylabel("Messages")
-plt.grid(True)
-plt.tight_layout()
-plt.show()
+merged_df['destination_country'].value_counts().plot(kind='bar', ax=axs[2, 0], title='Messages by Country')
+axs[2, 0].set_xlabel("Country")
+axs[2, 0].set_ylabel("Messages")
+axs[2, 0].grid(True)
 
-# 6. Fraud Share by Aggregator
-plt.figure()
-fraud_split = merged_df[merged_df['is_fraud']].groupby('aggregator_id').size()
-fraud_split.plot(kind='pie', autopct='%1.1f%%', title='Fraud Share by Aggregator')
-plt.ylabel("")
-plt.tight_layout()
+# 6. Fraud Split by Aggregator
+merged_df[merged_df['is_fraud']].groupby('aggregator_id').size().plot(kind='pie', ax=axs[2, 1], autopct='%1.1f%%', title='Fraud by Aggregator')
+axs[2, 1].set_ylabel("")
+
+plt.tight_layout(rect=[0, 0.03, 1, 0.95])
 plt.show()
