@@ -8,6 +8,7 @@ from faker import Faker
 from datetime import datetime, timedelta
 import matplotlib.pyplot as plt
 import os
+import re
 
 fake = Faker()
 np.random.seed(42)
@@ -39,7 +40,13 @@ error_codes = [
     {"error_code": "E0", "description": "No error", "is_regex_flag": False, "severity": "low"},
 ]
 
-regex_patterns = ["OTP", "FREE", "URGENT", "GIFT"]
+regex_patterns = [
+    r"\bOTP\b",
+    r"\b\d{6}\b",  # numeric OTP
+    r"(free|win|gift|urgent|click here|act now)",
+    r"http[s]?://",  # suspicious links
+    r"\b[A-Z]{4,}\b"  # all-caps spammy words
+]
 
 # Generate messages and billing metadata
 messages = []
@@ -51,8 +58,20 @@ for i in range(num_messages):
     timestamp = current_time
     current_time += message_interval
 
-    customer = random.choice(customers)
-    aggregator = random.choice(aggregators)
+    customer_pool = (
+        [customers[0]] * random.randint(15, 22) +  # Webex Connect
+        [customers[1]] * random.randint(8, 12) +   # RetailX
+        [customers[2]] * random.randint(5, 10)     # HealthPro
+    )
+    customer = random.choice(customer_pool)
+
+    aggregator_pool = (
+        [aggregators[2]] * random.randint(15, 20) +  # IMImobile (most used)
+        [aggregators[0]] * random.randint(8, 12) +   # JPN_Agg1
+        [aggregators[1]] * random.randint(6, 10)     # UK_Agg1
+    )
+    aggregator = random.choice(aggregator_pool)
+
     country_pool = (
         ["United Kingdom"] * random.randint(18, 25) +
         ["USA"] * random.randint(12, 18) +
@@ -67,18 +86,53 @@ for i in range(num_messages):
     sender_id = fake.user_name()
     content_type = random.choices(["normal", "otp", "spam"], weights=[0.85, 0.1, 0.05])[0]
 
+    channel_pool = (
+        ["SMS"] * random.randint(60, 75) +
+        ["WhatsApp"] * random.randint(15, 25) +
+        ["RCS"] * random.randint(5, 15)
+    )
+    channel_type = random.choice(channel_pool)
+
+
     if content_type == "otp":
-        message_content = f"Your OTP is {random.randint(100000, 999999)}"
+        otp_templates = [
+            f"Your OTP is {random.randint(100000, 999999)}",
+            f"Use {random.randint(100000, 999999)} to verify your login",
+            f"Security code: {random.randint(100000, 999999)}. Do not share it."
+        ]
+        message_content = random.choice(otp_templates)
+
     elif content_type == "spam":
-        message_content = f"WIN A FREE GIFT NOW!"
+        spam_templates = [
+            "WIN A FREE GIFT NOW!",
+            "Click here to claim your reward",
+            "ACT NOW: Get exclusive access!",
+            "Visit http://offers-secure.com/claim"
+            "Check your reward: http://now-win.biz"
+            "Click https://login-alert.net to confirm"
+            "GIFT ALERT: You're selected. Click now!"
+        ]
+        message_content = random.choice(spam_templates)
+
     else:
         message_content = fake.sentence()
 
-    regex_hit = next((pattern for pattern in regex_patterns if pattern in message_content), None)
+
+    regex_hit = None
+    for pattern in regex_patterns:
+        if re.search(pattern, message_content, re.IGNORECASE):
+            regex_hit = pattern
+            break
+
     error_choice = random.choices(error_codes, weights=[0.05, 0.02, 0.03, 0.9])[0] if regex_hit else random.choices(error_codes, weights=[0.03, 0.01, 0.02, 0.94])[0]
 
     delivery_status = "Delivered" if error_choice["error_code"] == "E0" else "Failed"
-    is_fraud = content_type in ["otp", "spam"] and error_choice["is_regex_flag"]
+
+    is_fraud = (
+        content_type in ["otp", "spam"] and error_choice["is_regex_flag"]
+        and random.random() < random.uniform(0.8, 0.95)  # Adds unpredictability
+    )
+
     fraud_type = "otp_abuse" if "OTP" in message_content else ("spoofed_id" if content_type == "spam" else "none")
 
     messages.append({
@@ -93,7 +147,8 @@ for i in range(num_messages):
         "error_code": error_choice["error_code"],
         "delivery_status": delivery_status,
         "is_fraud": is_fraud,
-        "fraud_type": fraud_type if is_fraud else "none"
+        "fraud_type": fraud_type if is_fraud else "none",
+        "channel_type": channel_type
     })
 
     billing_metadata.append({
