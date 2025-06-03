@@ -15,7 +15,7 @@ np.random.seed(42)
 random.seed(42)
 
 # Constants
-num_messages = 50000
+num_messages = 200000
 start_date = datetime(2024, 11, 15)
 end_date = datetime(2025, 1, 15)
 message_interval = (end_date - start_date) / num_messages
@@ -83,7 +83,6 @@ for i in range(num_messages):
 
     timestamp = current_time + timedelta(minutes=base_jitter)
     current_time = timestamp
-
 
     current_time += message_interval
 
@@ -173,14 +172,15 @@ for i in range(num_messages):
 
     delivery_status = "Delivered" if error_choice["error_code"] == "E0" else "Failed"
 
-    fraud_base_prob = 0.9 if is_christmas or is_new_year else 0.7
+    fraud_base_prob = 0.98 if is_christmas or is_new_year else 0.3
+    non_regex_prob = 0.15 if is_christmas or is_new_year else 0.05
 
-    fraud_boost = random.random() < fraud_base_prob if (
-        content_type in ["otp", "spam"] and error_choice["is_regex_flag"]
-    ) else False
+    fraud_boost = (
+        random.random() < fraud_base_prob if content_type in ["otp", "spam"] and error_choice["is_regex_flag"]
+        else random.random() < non_regex_prob  # allow some false negatives in regex to still be flagged
+    )
 
     is_fraud = fraud_boost
-
 
     fraud_type = (
         random.choice(["otp_abuse", "code_misuse"]) if "OTP" in message_content else
@@ -241,7 +241,7 @@ error_codes_df.to_csv("synthetic_data/error_codes.csv", index=False)
 
 # Prepare for visualisation
 merged_df = pd.merge(messages_df, billing_df, on="message_id", how="inner")
-merged_df['hour'] = merged_df['timestamp'].dt.floor('H')
+merged_df['hour'] = merged_df['timestamp'].dt.floor('D')
 
 # Combined Dashboard of All Key Metrics
 fig, axs = plt.subplots(3, 2, figsize=(15, 12))
