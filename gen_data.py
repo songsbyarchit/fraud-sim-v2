@@ -123,7 +123,14 @@ for i in range(num_messages):
         ["Nigeria"] * random.randint(3, 6)
     )
     destination_country = random.choice(country_pool)
-    sender_id = fake.user_name()
+
+    sender_id = random.choice([
+        fake.user_name(),
+        f"{fake.country_code()}-{fake.last_name()}",
+        f"{random.randint(10000, 99999)}",
+        fake.company_email().split("@")[0]
+    ])
+
     content_type = random.choices(["normal", "otp", "spam"], weights=[0.85, 0.1, 0.05])[0]
 
     channel_pool = (
@@ -159,11 +166,8 @@ for i in range(num_messages):
         message_content = fake.sentence()
 
 
-    regex_hit = None
-    for pattern in regex_patterns:
-        if re.search(pattern, message_content, re.IGNORECASE):
-            regex_hit = pattern
-            break
+    regex_matches = [p for p in regex_patterns if re.search(p, message_content, re.IGNORECASE)]
+    regex_hit = random.choice(regex_matches) if regex_matches else None
 
     error_choice = random.choices(error_codes, weights=[0.05, 0.02, 0.03, 0.9])[0] if regex_hit else random.choices(error_codes, weights=[0.03, 0.01, 0.02, 0.94])[0]
 
@@ -174,7 +178,11 @@ for i in range(num_messages):
         and random.random() < random.uniform(0.8, 0.95)  # Adds unpredictability
     )
 
-    fraud_type = "otp_abuse" if "OTP" in message_content else ("spoofed_id" if content_type == "spam" else "none")
+    fraud_type = (
+        random.choice(["otp_abuse", "code_misuse"]) if "OTP" in message_content else
+        random.choice(["spoofed_id", "link_fraud", "brand_impersonation"]) if content_type == "spam" else
+        "none"
+    )
 
     messages.append({
         "message_id": message_id,
@@ -196,6 +204,11 @@ for i in range(num_messages):
         "message_id": message_id,
         "aggregator_id": aggregator["aggregator_id"],
         "route_hops": random.randint(1, 3),
+        "hop_details": " -> ".join(filter(None, [
+            aggregator['aggregator_name'],
+            random.choice(["EU Transit", "SG Relay", "ME Hub", None]),
+            f"{destination_country} Gateway"
+        ])),
         "hop_details": f"{aggregator['aggregator_name']} -> {destination_country} Gateway",
         "total_cost_gbp": round(random.uniform(0.0015, 0.0050), 5),
         "direct_route": random.choice([True, False]),

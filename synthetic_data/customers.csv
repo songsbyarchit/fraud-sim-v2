@@ -1,4 +1,8 @@
 customer_id,customer_name,vertical,country
-C1,Webex Connect,SaaS,United Kingdom
-C2,RetailX,Retail,France
-C3,HealthPro,Healthcare,Germany
+C1,RetailX,Retail,France
+C2,HealthPro,Healthcare,Germany
+C3,AutoSys,SaaS,USA
+C4,LoanQuick,Finance,India
+C5,EventComms,Media,Brazil
+C6,VerifyMe,Security,United Kingdom
+C7,PulseAlerts,Healthcare,Japan
