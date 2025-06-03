@@ -53,7 +53,17 @@ for i in range(num_messages):
 
     customer = random.choice(customers)
     aggregator = random.choice(aggregators)
-    destination_country = random.choice(["United Kingdom", "Japan", "Palestine", "Brazil", "Germany"])
+    country_pool = (
+        ["United Kingdom"] * random.randint(18, 25) +
+        ["USA"] * random.randint(12, 18) +
+        ["Japan"] * random.randint(10, 15) +
+        ["Germany"] * random.randint(8, 12) +
+        ["India"] * random.randint(8, 12) +
+        ["Brazil"] * random.randint(6, 10) +
+        ["Palestine"] * random.randint(5, 8) +
+        ["Nigeria"] * random.randint(3, 6)
+    )
+    destination_country = random.choice(country_pool)
     sender_id = fake.user_name()
     content_type = random.choices(["normal", "otp", "spam"], weights=[0.85, 0.1, 0.05])[0]
 
@@ -105,12 +115,12 @@ customers_df = pd.DataFrame(customers)
 error_codes_df = pd.DataFrame(error_codes)
 
 # Save as CSVs
-os.makedirs("/mnt/data/synthetic_data", exist_ok=True)
-messages_df.to_csv("/mnt/data/synthetic_data/messages.csv", index=False)
-billing_df.to_csv("/mnt/data/synthetic_data/billing_metadata.csv", index=False)
-aggregators_df.to_csv("/mnt/data/synthetic_data/aggregators.csv", index=False)
-customers_df.to_csv("/mnt/data/synthetic_data/customers.csv", index=False)
-error_codes_df.to_csv("/mnt/data/synthetic_data/error_codes.csv", index=False)
+os.makedirs("synthetic_data", exist_ok=True)
+messages_df.to_csv("synthetic_data/messages.csv", index=False)
+billing_df.to_csv("synthetic_data/billing_metadata.csv", index=False)
+aggregators_df.to_csv("synthetic_data/aggregators.csv", index=False)
+customers_df.to_csv("synthetic_data/customers.csv", index=False)
+error_codes_df.to_csv("synthetic_data/error_codes.csv", index=False)
 
 # Prepare for visualisation
 merged_df = pd.merge(messages_df, billing_df, on="message_id", how="inner")
