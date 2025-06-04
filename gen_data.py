@@ -71,15 +71,25 @@ for i in range(num_messages):
 
     # Gradual spike up to holidays (more traffic + fraud)
     if 0 < days_to_christmas <= 5 or 0 < days_to_new_year <= 5:
-        base_jitter *= random.uniform(0.6, 0.9)  # condense timestamps (more msgs/hour)
+        base_jitter *= random.uniform(0.6, 0.9)
 
-    # Sharp spike on the day
+    # Sharp spike on main days
     if is_christmas or is_new_year:
         base_jitter *= random.uniform(0.2, 0.4)
 
-    # Simulated surge: randomly inject bursty patterns ~2% of time
-    if random.random() < 0.02:
-        base_jitter *= random.uniform(0.3, 0.5)
+    # Valentine's spike logic
+    is_valentines = current_time.month == 2 and current_time.day == 14
+    days_to_valentines = (datetime(2025, 2, 14) - current_time).days
+    if is_valentines:
+        base_jitter *= random.uniform(0.3, 0.55)
+    elif 0 < days_to_valentines <= 5:
+        base_jitter *= random.uniform(0.7, 0.95)
+
+    # Random bursty patterns
+    if random.random() < 0.12:
+        base_jitter *= random.uniform(0.75, 0.95)
+        if random.random() < 0.2:  # 20% of those bursts also have elevated fraud
+            fraud_boost = True
 
     timestamp = current_time + timedelta(minutes=base_jitter)
     current_time = timestamp
@@ -172,8 +182,11 @@ for i in range(num_messages):
 
     delivery_status = "Delivered" if error_choice["error_code"] == "E0" else "Failed"
 
-    fraud_base_prob = 0.98 if is_christmas or is_new_year else 0.3
-    non_regex_prob = 0.15 if is_christmas or is_new_year else 0.05
+    fraud_base_prob = random.uniform(0.25, 0.35) if (is_christmas or is_new_year) else (
+                        random.uniform(0.15, 0.25) if is_valentines else random.uniform(0.08, 0.15))
+
+    non_regex_prob = random.uniform(0.04, 0.07) if (is_christmas or is_new_year) else (
+                        random.uniform(0.03, 0.06) if is_valentines else random.uniform(0.01, 0.03))
 
     fraud_boost = (
         random.random() < fraud_base_prob if content_type in ["otp", "spam"] and error_choice["is_regex_flag"]
