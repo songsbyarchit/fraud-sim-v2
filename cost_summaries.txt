@@ -1,0 +1,1747 @@
+--- Dec 15, 2024 Financial Summary ---
+<b>Country Cost Trends</b><br>
+- USA continues to lead in cost with 0.59 GBP, showing a 4.98% increase week-on-week.<br>
+- India remains cost-effective at 0.49 GBP, despite a 3.8% rise in daily costs.
+
+<b>Aggregator Cost Trends</b><br>
+- AGG3 has the highest cost at 1.40 GBP, with a 0.07 GBP increase from AGG2.<br>
+- AGG2 shows a larger cost delta of 0.11 GBP compared to AGG1.
+
+<b>Channel Cost Trends</b><br>
+- SMS maintains the highest cost at 2.55 GBP, surpassing other channels significantly.<br>
+- RCS and WhatsApp follow with costs of 0.37 GBP and 0.78 GBP respectively.
+
+--- Dec 15, 2024 Financial Summary ---
+<b>Country Cost Trends</b>
+- USA has the lowest cost at 0.59 GBP, while United Kingdom leads at 0.89 GBP.
+- India is the third cheapest country with a cost of 0.49 GBP.
+
+<b>Aggregator Cost Trends</b>
+- AGG3 has the highest cost at 1.40 GBP, AGG1 follows at 1.24 GBP, and AGG2 at 1.05 GBP.
+- AGG2 has shown the highest increase in cost with a delta of 0.11 GBP.
+
+<b>Channel Cost Trends</b>
+- SMS is the most expensive channel at 2.55 GBP, while WhatsApp follows at 0.78 GBP.
+- RCS is the cheapest channel at 0.37 GBP.
+
+--- Dec 16, 2024 Financial Summary ---
+<b>Country Cost Trends</b><br>
+- United Kingdom had the highest cost at 0.88914 GBP, followed by India at 0.6088 GBP.<br>
+- The cost in the USA was 0.5801 GBP, showing a consistent trend in pricing.
+
+<b>Aggregator Cost Trends</b><br>
+- AGG1 and AGG3 experienced cost changes of 0.1286 and -0.0237 respectively.<br>
+- AGG1 was the top aggregator with a cost of 1.39888 GBP, followed by AGG3 at 1.37 GBP.
+
+<b>Channel Cost Trends</b><br>
+- SMS had the highest cost at 2.58389 GBP among all channels.<br>
+- WhatsApp and RCS followed with costs of 0.81901 GBP and 0.38304 GBP respectively.
+
+--- Dec 17, 2024 Financial Summary ---
+<b>Country Cost Trends</b>
+- United Kingdom remains the cost leader at 0.94, with USA following closely behind at 0.64.
+- Japan's costs are the lowest among the top countries, with a cost of 0.48.
+
+<br>
+
+<b>Aggregator Cost Trends</b>
+- AGG3 experienced the highest day-on-day cost change at 1.39%.
+- AGG2 had the smallest cost increase among the top aggregators, with a delta of 0.05.
+
+<br>
+
+<b>Channel Cost Trends</b>
+- SMS continues to have the highest cost at 2.66, followed by WhatsApp at 0.82.
+- RCS has the lowest cost among the channels listed, with a cost of 0.35.
+
+--- Dec 18, 2024 Financial Summary ---
+<b>Country Cost Trends</b>
+- United Kingdom had a daily cost increase of 0.49%
+- India experienced a weekly cost decrease of 1.35%
+
+<b>Aggregator Cost Trends</b>
+- AGG2 had a cost delta of 2.91% compared to AGG3
+- AGG1 showed a daily cost decrease of 0.37%
+
+<b>Channel Cost Trends</b>
+- SMS was the top channel with a cost of 2.63
+- RCS costs decreased by 0.03% compared to the previous week
+
+--- Dec 19, 2024 Financial Summary ---
+<b>Country Cost Trends</b>
+- United Kingdom remains the cost leader at 0.98 GBP, with the USA following at 0.72 GBP.
+- India shows the lowest cost at 0.55 GBP, indicating potential cost-saving opportunities.
+
+<b>Aggregator Cost Trends</b>
+- AGG3 shows the highest cost at 1.63, with AGG1 following closely behind at 1.50.
+- AGG2 ranks third in cost at 1.23, suggesting possible optimization strategies.
+
+<b>Channel Cost Trends</b>
+- SMS maintains the highest cost at 2.99, emphasizing the need for cost management strategies.
+- WhatsApp and RCS follow at 0.91 and 0.44, respectively, highlighting different cost efficiencies.
+
+--- Dec 20, 2024 Financial Summary ---
+<b>Country Cost Trends</b><br>
+- Japan continues to lead in cost efficiency at 0.61, followed closely by the UK at 0.88.<br>
+- USA remains competitive with a cost efficiency of 0.59, showing consistency in expenditure.
+
+<br>
+
+<b>Aggregator Cost Trends</b><br>
+- AGG3 maintains the top spot in costs at 1.48, with AGG1 closely behind at 1.44.<br>
+- AGG1 sees a significant decrease in cost of 4.03% compared to AGG2's increase of 0.74%.
+
+<br>
+
+<b>Channel Cost Trends</b><br>
+- SMS continues to have the highest cost at 2.91, followed by WhatsApp at 0.86.<br>
+- RCS remains the most efficient channel at 0.38, showcasing stable cost leadership.
+
+--- Dec 21, 2024 Financial Summary ---
+<b>Country Cost Trends</b><br>
+- United Kingdom had the highest cost at 0.91 GBP, followed by USA at 0.64 GBP and India at 0.58 GBP.<br>
+- Day-on-day cost % change was 0.77%, indicating a slight increase in overall country costs.
+
+<b>Aggregator Cost Trends</b><br>
+- AGG3 was the cost leader among aggregators at 1.62, followed by AGG1 at 1.41 and AGG2 at 1.16.<br>
+- AGG1 experienced a cost decrease of 0.02, while AGG3 saw an increase of 0.10 in cost.
+
+<b>Channel Cost Trends</b><br>
+- SMS had the highest cost at 2.80, followed by WhatsApp at 0.92 and RCS at 0.46.<br>
+- The week-on-week cost % change was 5.72%, indicating a significant increase in overall channel costs.
+
+--- Dec 22, 2024 Financial Summary ---
+<b>Country Cost Trends</b><br>
+- United Kingdom continues as the cost leader with £1.04, showing slight increase from previous day.<br>
+- USA follows closely behind with £0.65, maintaining a steady cost trend.
+
+<b>Aggregator Cost Trends</b><br>
+- AGG3 remains the top aggregator with £1.64, experiencing a significant increase in cost.<br>
+- AGG1 and AGG2 follow with £1.52 and £1.18 respectively, showing moderate cost changes.
+
+<b>Channel Cost Trends</b><br>
+- SMS leads in cost among channels with £3.07, indicating a considerable increase from previous data.<br>
+- WhatsApp and RCS follow with £0.89 and £0.37 respectively, maintaining relatively stable costs.
+
+--- Dec 23, 2024 Financial Summary ---
+<b>Country Cost Trends</b>
+- USA had the lowest cost at 0.69 GBP, followed by Japan at 0.64 GBP and the UK at 0.89 GBP.
+- Day-on-day cost decreased by 1.58%, while week-on-week cost increased by 9.39%.
+
+<b>Aggregator Cost Trends</b>
+- AGG3 had the highest cost at 1.58 GBP, followed by AGG1 at 1.41 GBP and AGG2 at 1.27 GBP.
+- AGG2 cost increased by 0.08 GBP, while AGG3 cost decreased by 0.03 GBP.
+
+<b>Channel Cost Trends</b>
+- SMS had the highest cost at 2.98 GBP, followed by WhatsApp at 0.88 GBP and RCS at 0.41 GBP.
+- RCS had the highest average cost breakdown at 0.00358 GBP, followed by WhatsApp at 0.00349 GBP.
+
+--- Dec 24, 2024 Financial Summary ---
+<b>Country Cost Trends</b><br>
+- USA has the highest cost at $0.60, followed by UK at $0.79 and India at $0.50.<br>
+- Costs decreased by 15.88% day-on-day, indicating potential savings opportunities.<br>
+
+<b>Aggregator Cost Trends</b><br>
+- AGG3 has the highest cost at $1.36, followed by AGG1 at $1.20 and AGG2 at $1.03.<br>
+- AGG1 and AGG3 saw cost decreases of 15.03% and 14.39% respectively.<br>
+
+<b>Channel Cost Trends</b><br>
+- SMS has the highest cost at $2.50, followed by WhatsApp at $0.72 and RCS at $0.37.<br>
+- WhatsApp maintained a low cost despite a week-on-week cost increase of 8.5%.<br>
+
+--- Dec 25, 2024 Financial Summary ---
+<b>Country Cost Trends</b>
+- United Kingdom remains the highest cost leader at £1.35, followed by USA at £0.92.
+- India holds steady at £0.81, showing consistent cost trends on Dec 25, 2024.
+
+<b>Aggregator Cost Trends</b>
+- AGG3 emerges as the top aggregator by cost at £2.04.
+- AGG1 closely follows at £2.03, maintaining competitive pricing on Dec 25, 2024.
+
+<b>Channel Cost Trends</b>
+- SMS continues to lead in channel costs at £3.92, showing the highest cost among all channels.
+- WhatsApp remains stable at £1.13, while RCS maintains the lowest cost at £0.59.
+
+--- Dec 26, 2024 Financial Summary ---
+<b>Country Cost Trends</b><br>
+- United Kingdom had the highest cost at 1.03 GBP.<br>
+- Japan experienced a cost decrease of -20.08% day-on-day.
+
+<b>Aggregator Cost Trends</b><br>
+- AGG3 had the highest cost at 1.67 GBP.<br>
+- AGG1 led with a cost increase of 15.06% week-on-week.
+
+<b>Channel Cost Trends</b><br>
+- SMS had the highest cost at 3.16 GBP.<br>
+- RCS showed the lowest cost at 0.47 GBP.
+
+--- Dec 27, 2024 Financial Summary ---
+<b>Country Cost Trends</b><br>
+- USA saw a 12.44% week-on-week cost increase.<br>
+- India remains a cost leader with a day-on-day cost % change of -11.99%.
+
+<b>Aggregator Cost Trends</b><br>
+- AGG1 experienced a day-on-day cost % change of -7.62%.<br>
+- AGG3 saw a week-on-week cost % change of -12.41%.
+
+<b>Channel Cost Trends</b><br>
+- SMS holds the top spot with a cost of 2.75 GBP.<br>
+- WhatsApp maintains its lead with a cost of 0.81 GBP.
+
+--- Dec 28, 2024 Financial Summary ---
+<b>Country Cost Trends</b><br>
+- UK continues as cost leader at £0.94, followed by USA at £0.65 and India at £0.60.<br>
+- Day-on-day cost increased by 5.91%, with a 9.94% week-on-week cost rise.
+
+<b>Aggregator Cost Trends</b><br>
+- AGG1 with £1.49, AGG3 at £1.46, and AGG2 at £1.26 are top cost aggregators.<br>
+- AGG2 shows the highest delta of 0.15 compared to 0.05 for AGG1.
+
+<b>Channel Cost Trends</b><br>
+- SMS leads with £2.97, followed by WhatsApp at £0.77 and RCS at £0.46.<br>
+- WhatsApp maintains the highest avg cost breakdown in Palestine and Nigeria at £0.0035.
+
+--- Dec 29, 2024 Financial Summary ---
+<b>Country Cost Trends</b><br>
+- USA remains a cost leader with a cost of 0.66, showing a consistent trend from the previous day.<br>
+- Japan's cost decreased to 0.58, indicating a slight decline in cost compared to the previous day.
+
+<b>Aggregator Cost Trends</b><br>
+- AGG3 experienced a cost increase of 7.21%, surpassing AGG1 and AGG2.<br>
+- AGG2 saw a cost decrease by 4.83%, showing a significant drop in cost compared to the previous day.
+
+<b>Channel Cost Trends</b><br>
+- SMS retains its position as the highest cost channel at 2.93, exhibiting a stable cost trend.<br>
+- RCS maintains a low cost of 0.39, consistent with the previous day's trend.
+
+--- Dec 15, 2024 Financial Summary ---
+<b>Country Cost Trends</b>
+- USA continues to lead in costs with a rate of 0.59, followed by UK at 0.89.<br>
+- India maintains its position as a cost-effective country with a rate of 0.49.<br><br>
+<b>Aggregator Cost Trends</b>
+- AGG3 has shown the highest increase in cost with a delta of 0.07.<br>
+- AGG1 remains the top aggregator with a cost of 1.24, followed by AGG2 at 1.05.<br><br>
+<b>Channel Cost Trends</b>
+- SMS remains the most expensive channel with a cost of 2.55.<br>
+- WhatsApp and RCS have costs of 0.78 and 0.37 respectively, maintaining their positions. 
+
+--- Dec 16, 2024 Financial Summary ---
+<b>Country Cost Trends</b>
+- United Kingdom has the highest cost at 0.89, followed by India at 0.61. <br>
+- USA ranks third in cost at 0.58, showing a consistent trend.
+
+<br><br>
+
+<b>Aggregator Cost Trends</b>
+- AGG1 leads in cost at 1.40, with AGG3 at 1.37 and AGG2 at 1.02. <br>
+- AGG1 shows a positive cost delta of 0.13, while AGG3 shows a slight decrease.
+
+<br><br>
+
+<b>Channel Cost Trends</b>
+- SMS has the highest cost at 2.58, followed by WhatsApp at 0.82. <br>
+- RCS stands at 0.38 in cost, maintaining a lower position.
+
+--- Dec 17, 2024 Financial Summary ---
+<b>Country Cost Trends</b>
+- United Kingdom had a cost of 0.93654, leading all countries.
+<br>
+- Japan's cost was 0.48288, showing a competitive position in the market.
+
+<br><br>
+
+<b>Aggregator Cost Trends</b>
+- AGG3 showed a cost of 1.38984, leading all aggregators.
+<br>
+- AGG1 had a cost of 1.3822, closely following the top aggregator.
+
+<br><br>
+
+<b>Channel Cost Trends</b>
+- SMS had a cost of 2.66354, highest among all channels.
+<br>
+- RCS showed a cost of 0.35297, indicating a lower cost channel option.
+
+--- Dec 18, 2024 Financial Summary ---
+<b>Country Cost Trends</b>
+- India had the lowest cost at 0.56, followed by the USA at 0.55.<br>
+- The United Kingdom led in costs with 0.88, showing a diverse cost distribution.<br><br>
+
+<b>Aggregator Cost Trends</b>
+- AGG3 had the highest cost at 1.37, while AGG2 had the lowest cost at 1.10.<br>
+- AGG2 saw a 0.03 increase in cost, whereas AGG3 experienced a 0.01 decrease.<br><br>
+
+<b>Channel Cost Trends</b>
+- SMS had the highest cost at 2.63, with WhatsApp following at 0.78.<br>
+- RCS exhibited the lowest cost at 0.34, presenting a significant cost difference among channels.
+
+--- Dec 19, 2024 Financial Summary ---
+<b>Country Cost Trends</b>
+- United Kingdom had the highest cost at 0.98 GBP.<br>
+- India showed the lowest cost trend with 0.55% decrease.<br><br>
+
+<b>Aggregator Cost Trends</b>
+- AGG3 saw the highest increase in cost at 18.46% delta.<br>
+- AGG1 remained a top aggregator with a cost of 1.50 GBP.<br><br>
+
+<b>Channel Cost Trends</b>
+- SMS had the highest cost at 2.99 GBP.<br>
+- RCS showed the lowest cost among channels with 0.44 GBP.
+
+--- Dec 20, 2024 Financial Summary ---
+<b>Country Cost Trends</b>
+- United Kingdom remains the cost leader at 0.88, followed by Japan at 0.61.<br>
+- USA trails closely behind Japan with a cost of 0.59.<br><br>
+<b>Aggregator Cost Trends</b>
+- AGG3 leads in cost at 1.48, followed by AGG1 at 1.44 and AGG2 at 1.24.<br>
+- AGG2 saw a cost increase of 0.74% while AGG1 decreased by 4.03%.<br><br>
+<b>Channel Cost Trends</b>
+- SMS has the highest cost at 2.91, followed by WhatsApp at 0.86 and RCS at 0.38.<br>
+- The highest average cost breakdown occurred with AGG2 in Palestine for RCS at 0.0035.
+
+--- Dec 21, 2024 Financial Summary ---
+<b>Country Cost Trends</b>
+- United Kingdom remains the cost leader at 0.91, with a 5.72% week-on-week increase.<br>
+- India shows stable costs at 0.58, reflecting a 0.77% day-on-day change.
+
+<br><br>
+
+<b>Aggregator Cost Trends</b>
+- AGG3 saw a 0.10 increase, while AGG1 decreased by 0.02 in costs.<br>
+- AGG3 is the top aggregator by cost at 1.62, with AGG2 at 1.16.
+
+<br><br>
+
+<b>Channel Cost Trends</b>
+- SMS is the leader in cost at 2.80, followed by WhatsApp at 0.92.<br>
+- RCS costs are at 0.46, showcasing a consistent trend with a 0.77% day-on-day change.
+
+--- Dec 15, 2024 Financial Summary ---
+<b>Country Cost Trends</b><br><br>
+- United Kingdom has the highest cost at 0.89 GBP, followed by USA at 0.59 GBP.
+<br>
+- India has the lowest cost at 0.49 GBP, showing a competitive advantage.
+<br><br>
+<b>Aggregator Cost Trends</b><br><br>
+- AGG3 increased by 7.28% with a cost of 1.40, while AGG2 rose by 10.95%.
+<br>
+- AGG1 remains the top aggregator with a cost of 1.24 GBP.
+<br><br>
+<b>Channel Cost Trends</b><br><br>
+- SMS has the highest cost at 2.55 GBP, outpricing WhatsApp at 0.78 GBP.
+<br>
+- RCS offers the lowest cost at 0.37 GBP, making it the most cost-effective channel.
+
+--- Dec 16, 2024 Financial Summary ---
+<b>Country Cost Trends</b><br><br>
+- USA had the lowest cost per message at £0.5801.<br>
+- India saw a significant increase in costs with a day-on-day change of 2.59%.
+
+<br><br>
+
+<b>Aggregator Cost Trends</b><br><br>
+- AGG1 remained the top aggregator with a cost of £1.39888 per message.<br>
+- AGG3 experienced a decrease in cost by 0.0237, while AGG2 maintained a cost of £1.01706.
+
+<br><br>
+
+<b>Channel Cost Trends</b><br><br>
+- SMS had the highest cost per message at £2.58389.<br>
+- WhatsApp and RCS followed with costs of £0.81901 and £0.38304 per message respectively.
+
+--- Dec 17, 2024 Financial Summary ---
+<b>Country Cost Trends</b><br><br>
+- United Kingdom led with a cost of 0.94, followed by USA at 0.64, and Japan at 0.48.<br>
+- Day-on-day cost increased by 1.38% while week-on-week cost rose by 2.8%.<br><br>
+
+<b>Aggregator Cost Trends</b><br><br>
+- AGG3 had the highest cost at 1.39, followed by AGG1 at 1.38, and AGG2 at 1.07.<br>
+- AGG2 saw a cost increase of 0.05, while AGG3 had a smaller increase of 0.01.<br><br>
+
+<b>Channel Cost Trends</b><br><br>
+- SMS had the highest cost at 2.66, followed by WhatsApp at 0.82, and RCS at 0.35.<br>
+- Nigeria had the highest average cost breakdown at 0.0035, followed by Palestine at 0.0035.
+
+--- Dec 18, 2024 Financial Summary ---
+<b>Country Cost Trends</b><br><br>
+- United Kingdom had the highest cost at 0.88 GBP, followed by India at 0.56 GBP.<br>
+- USA had the third highest cost at 0.55 GBP.<br><br>
+
+<b>Aggregator Cost Trends</b><br><br>
+- AGG3 was the top aggregator with a cost of 1.37, followed by AGG1 at 1.28.<br>
+- AGG2 ranked third with a cost of 1.10.<br><br>
+
+<b>Channel Cost Trends</b><br><br>
+- SMS had the highest cost at 2.63 GBP, followed by WhatsApp at 0.78 GBP.<br>
+- RCS ranked third with a cost of 0.34 GBP.
+
+--- Dec 19, 2024 Financial Summary ---
+<b>Country Cost Trends</b><br><br>
+- United Kingdom had a cost of 0.98 GBP, leading all countries for Dec 19, 2024.<br>
+- USA incurred a cost of 0.72 GBP, ranking second in country cost for the same date.<br>
+
+<br><br>
+
+<b>Aggregator Cost Trends</b><br><br>
+- AGG3 had a cost of 1.63 GBP, making it the top aggregator in cost for Dec 19, 2024.<br>
+- AGG1 followed closely behind with a cost of 1.50 GBP on the same date.<br>
+
+<br><br>
+
+<b>Channel Cost Trends</b><br><br>
+- SMS had the highest cost at 2.99 GBP, leading all channels on Dec 19, 2024.<br>
+- WhatsApp and RCS followed with costs of 0.91 GBP and 0.44 GBP respectively for the same date.
+
+--- Dec 20, 2024 Financial Summary ---
+<b>Country Cost Trends</b><br><br>
+- United Kingdom remains the cost leader at 0.88 GBP, followed by Japan at 0.61 GBP.<br>
+- USA holds steady in third place with costs at 0.59 GBP.<br><br>
+<b>Aggregator Cost Trends</b><br><br>
+- AGG3 leads in cost at 1.48, AGG1 follows closely at 1.44, and AGG2 trails at 1.24.<br>
+- AGG2 experienced a cost increase of 0.74% while AGG1 saw a decrease of 4.03%.<br><br>
+<b>Channel Cost Trends</b><br><br>
+- SMS remains the most expensive channel at 2.91, WhatsApp follows at 0.86, and RCS at 0.38.<br>
+- The highest average cost is for RCS in Palestine at 0.0035 GBP.
+
+--- Dec 21, 2024 Financial Summary ---
+<b>Country Cost Trends</b><br><br>
+- Highest cost: SMS in United Kingdom at 2.80 GBP.<br>
+- Lowest cost: RCS in India at 0.46 GBP.<br>
+
+<br><br>
+
+<b>Aggregator Cost Trends</b><br><br>
+- Top cost aggregator: AGG3 at 1.62 GBP.<br>
+- Cost decrease: AGG1 with a delta of -0.02.<br>
+
+<br><br>
+
+<b>Channel Cost Trends</b><br><br>
+- Highest cost channel: SMS at 2.80 GBP.<br>
+- Lowest cost channel: RCS at 0.46 GBP.
+
+--- Dec 22, 2024 Financial Summary ---
+<b>Country Cost Trends</b><br><br>
+- United Kingdom had the highest cost at £1.04, followed by USA at £0.65.<br>
+- Japan had a cost of £0.61, reflecting a mix of high and moderate expenditures.<br>
+
+<br><br>
+
+<b>Aggregator Cost Trends</b><br><br>
+- AGG3 led with a cost of £1.64, followed by AGG1 at £1.52 and AGG2 at £1.18.<br>
+- AGG1 showed a higher cost increase with a delta of 0.08 compared to AGG2 at 0.02.<br>
+
+<br><br>
+
+<b>Channel Cost Trends</b><br><br>
+- SMS had the highest cost of £3.07, followed by WhatsApp at £0.89 and RCS at £0.37.<br>
+- RCS channel maintained a lower cost, suggesting cost-effectiveness in messaging operations.
+
+--- Dec 23, 2024 Financial Summary ---
+<b>Country Cost Trends</b><br><br>
+- The United Kingdom had the highest cost at 0.89 GBP.<br>
+- Japan's cost was 0.64 GBP, ranking third among countries.<br>
+
+<br><br>
+
+<b>Aggregator Cost Trends</b><br><br>
+- AGG3 experienced a cost decrease of 3.29%.<br>
+- AGG1 was the top aggregator with a cost of 1.41.<br>
+
+<br><br>
+
+<b>Channel Cost Trends</b><br><br>
+- SMS had the highest cost at 2.98 GBP.<br>
+- RCS's cost was 0.41 GBP, making it the lowest cost channel.
+
+--- Dec 24, 2024 Financial Summary ---
+<b>Country Cost Trends</b><br><br>
+- United Kingdom had a daily cost decrease of 15.88% on Dec 24, 2024.<br>
+- USA experienced a weekly cost increase of 8.5% compared to the previous week.<br><br>
+<b>Aggregator Cost Trends</b><br><br>
+- AGG3 saw a cost decrease of 14.39% on Dec 24, 2024.<br>
+- AGG1 had a cost decline of 15.03% compared to the previous period.<br><br>
+<b>Channel Cost Trends</b><br><br>
+- SMS was the highest cost channel on Dec 24, 2024 with a cost of 2.50 GBP.<br>
+- WhatsApp had a cost of 0.72 GBP, making it the second highest cost channel.
+
+--- Dec 25, 2024 Financial Summary ---
+<b>Country Cost Trends</b><br><br>
+- United Kingdom had the highest cost at 1.35 GBP per unit.<br>
+- USA followed closely behind with a cost of 0.92 GBP per unit.<br>
+
+<br><br>
+
+<b>Aggregator Cost Trends</b><br><br>
+- AGG3 had the highest cost at 2.04 GBP per unit.<br>
+- AGG2 had a lower cost compared to the top aggregator at 1.57 GBP per unit.<br>
+
+<br><br>
+
+<b>Channel Cost Trends</b><br><br>
+- SMS had the highest cost at 3.92 GBP per unit.<br>
+- RCS had the lowest cost among channels at 0.59 GBP per unit.
+
+--- Dec 26, 2024 Financial Summary ---
+<b>Country Cost Trends</b><br><br>
+- USA had the lowest cost on Dec 26, 2024 at $0.77. <br>
+- Japan's cost was $0.61, making it the second lowest on that day. <br>
+
+<br><br>
+
+<b>Aggregator Cost Trends</b><br><br>
+- AGG3 had the highest cost at $1.67, leading the aggregators. <br>
+- AGG2 experienced a decrease in cost by 16.07%, showing a negative trend. <br>
+
+<br><br>
+
+<b>Channel Cost Trends</b><br><br>
+- SMS had the highest cost at $3.16, leading the channels. <br>
+- RCS had a cost of $0.47, making it the lowest among the channels. 
+
+--- Dec 27, 2024 Financial Summary ---
+<b>Country Cost Trends</b><br><br>
+- United Kingdom remains the cost leader at 0.94 GBP, followed by the USA at 0.67 GBP.<br>
+- India shows a cost increase to 0.53 GBP, reflecting a week-on-week change of 12.44%.
+
+<br><br>
+
+<b>Aggregator Cost Trends</b><br><br>
+- AGG3 has the highest cost at 1.46 GBP, while AGG1 and AGG2 follow closely behind.<br>
+- AGG3 and AGG1 display decreases in costs with deltas of -12.41% and -7.62% respectively.
+
+<br><br>
+
+<b>Channel Cost Trends</b><br><br>
+- SMS remains the highest cost channel at 2.75 GBP, leading over WhatsApp and RCS.<br>
+- RCS shows the lowest cost at 0.41 GBP, indicating potential cost-saving opportunities for the finance team.
+
+--- Dec 28, 2024 Financial Summary ---
+<b>Country Cost Trends</b><br><br>
+- USA had a cost of 0.65 GBP, showing a 9.94% week-on-week increase.<br>
+- India's cost was 0.60 GBP, with a 5.91% day-on-day change.<br>
+
+<br><br>
+
+<b>Aggregator Cost Trends</b><br><br>
+- AGG1 had a cost of 1.49 GBP, with a 5.91% day-on-day increase.<br>
+- AGG3 cost 1.46 GBP, showing a 9.94% week-on-week change.<br>
+
+<br><br>
+
+<b>Channel Cost Trends</b><br><br>
+- SMS had the highest cost at 2.97 GBP, with a 5.91% day-on-day increase.<br>
+- WhatsApp cost 0.77 GBP, showing a 9.94% week-on-week change.
+
+--- Dec 29, 2024 Financial Summary ---
+<b>Country Cost Trends</b><br><br>
+- USA has the second lowest cost at 0.66, following the United Kingdom at 0.91.<br>
+- Japan ranks third in cost, with a cost of 0.58 on Dec 29, 2024.<br>
+
+<br><br>
+
+<b>Aggregator Cost Trends</b><br><br>
+- AGG3 saw a cost increase of 0.07, while AGG2 experienced a decrease of 0.05 in cost.<br>
+- AGG1 is the top aggregator by cost at 1.37, followed by AGG3 at 1.56.<br>
+
+<br><br>
+
+<b>Channel Cost Trends</b><br><br>
+- SMS remains the highest-cost channel at 2.93, with WhatsApp at 0.82 and RCS at 0.39.<br>
+- The cost for WhatsApp is more than double that of RCS on Dec 29, 2024.
+
+--- Dec 30, 2024 Financial Summary ---
+<b>Country Cost Trends</b><br><br>
+- USA maintained its position as a cost leader with a cost of 0.65 GBP.<br>
+- India saw a slight increase in costs, now at 0.61 GBP.<br><br>
+<b>Aggregator Cost Trends</b><br><br>
+- AGG3 remains the top aggregator in cost with a rate of 1.55 GBP.<br>
+- AGG1 follows closely behind at 1.52 GBP, showing a small increase.<br><br>
+<b>Channel Cost Trends</b><br><br>
+- SMS continues to be the highest cost channel at 2.97 GBP.<br>
+- WhatsApp remains a cost-effective option at 0.91 GBP, showing consistency in pricing.
+
+--- Dec 31, 2024 Financial Summary ---
+<b>Country Cost Trends</b><br><br>
+- USA remains a cost leader at 0.62, followed by India at 0.60.<br>
+- United Kingdom is also a significant contributor to costs at 0.95.<br>
+
+<br>
+
+<b>Aggregator Cost Trends</b><br><br>
+- AGG1 leads in costs at 1.48, while AGG3 follows closely at 1.44.<br>
+- AGG2 maintains its position with a cost of 1.24.<br>
+
+<br>
+
+<b>Channel Cost Trends</b><br><br>
+- SMS continues to have the highest cost at 2.92 among channels.<br>
+- WhatsApp and RCS have costs of 0.83 and 0.41, respectively.
+
+--- Jan 1, 2025 Financial Summary ---
+<b>Country Cost Trends</b><br><br>
+- United Kingdom leads with cost of 1.35, followed by USA at 0.84.<br>
+- India is third in cost at 0.81, showing competitive pricing.<br><br>
+<b>Aggregator Cost Trends</b><br><br>
+- AGG3 has highest cost at 2.20, followed by AGG1 at 1.90.<br>
+- AGG2 ranks third with cost at 1.64, showing a moderate price level.<br><br>
+<b>Channel Cost Trends</b><br><br>
+- SMS has highest cost at 3.99, followed by WhatsApp at 1.18.<br>
+- RCS has lowest cost at 0.56, offering a cost-effective channel option.
+
+--- Jan 2, 2025 Financial Summary ---
+<b>Country Cost Trends</b><br><br>
+- United Kingdom has the highest cost at £0.84, followed by USA at £0.57.<br>
+- India ranks third in cost at £0.56, reflecting stable cost trends.<br>
+
+<br><br>
+
+<b>Aggregator Cost Trends</b><br><br>
+- AGG3 has the highest cost at £1.37, followed by AGG1 at £1.18.<br>
+- AGG2 has the lowest cost at £1.05, showing a significant cost difference.<br>
+
+<br><br>
+
+<b>Channel Cost Trends</b><br><br>
+- SMS leads in cost at £2.43, followed by WhatsApp at £0.73.<br>
+- RCS shows the lowest cost at £0.43, highlighting cost-effective channel utilization.
+
+--- Jan 3, 2025 Financial Summary ---
+<b>Country Cost Trends</b><br><br>
+- United Kingdom continues as cost leader at £0.92, with USA at £0.65 and Japan at £0.52.<br>
+- Day-on-day cost up by 9.12%, week-on-week cost down by -1.55%.
+
+<br><br>
+
+<b>Aggregator Cost Trends</b><br><br>
+- AGG3 leads with cost of 1.52, followed by AGG1 at 1.27 and AGG2 at 1.13.<br>
+- AGG3 had the highest delta at 0.11, with AGG2 following closely at 0.08.
+
+<br><br>
+
+<b>Channel Cost Trends</b><br><br>
+- SMS is cost leader at 2.78, WhatsApp at 0.74, and RCS at 0.40.<br>
+- India (AGG2, WhatsApp) and Palestine (AGG1, RCS) had highest avg cost breakdown.
+
+--- Jan 4, 2025 Financial Summary ---
+<b>Country Cost Trends</b><br><br>
+- United Kingdom leads in cost at 0.73 GBP, followed by USA at 0.52 GBP.<br>
+- India closely trails USA at 0.51 GBP, indicating competitive pricing in global markets.<br><br>
+
+<b>Aggregator Cost Trends</b><br><br>
+- AGG3 has the highest cost at 1.28, surpassing other top aggregators AGG1 and AGG2.<br>
+- AGG2 shows the largest cost decrease at -0.0937, impacting overall aggregator cost trends.<br><br>
+
+<b>Channel Cost Trends</b><br><br>
+- SMS commands the highest cost at 2.47, significantly more than WhatsApp at 0.73.<br>
+- RCS offers the lowest cost at 0.34, highlighting potential cost-effective communication solutions.
+
+--- Dec 15, 2024 Financial Summary ---
+<b>Country Cost Trends</b><br><br>
+- Highest cost in United Kingdom at £0.89, followed by USA at £0.59, and India at £0.49.<br>
+- Day-on-day cost % change is 3.8% and week-on-week cost % change is 4.98%.<br><br>
+<b>Aggregator Cost Trends</b><br><br>
+- AGG3 has the highest cost at £1.40, followed by AGG1 at £1.24, and AGG2 at £1.05.<br>
+- AGG2 cost increased by 0.11 and AGG3 by 0.07.<br><br>
+<b>Channel Cost Trends</b><br><br>
+- SMS has the highest cost at £2.55, followed by WhatsApp at £0.78 and RCS at £0.37.<br>
+- AGG1 has the highest avg cost breakdown at £0.00348 for RCS and £0.00345 for WhatsApp.
+
+--- Dec 16, 2024 Financial Summary ---
+<b>Country Cost Trends</b><br><br>
+- United Kingdom had the highest cost at £0.89, followed by India at £0.61.<br>
+- USA incurred a cost of £0.58, showing a consistent trend with previous data.
+
+<br><br>
+
+<b>Aggregator Cost Trends</b><br><br>
+- AGG1 and AGG3 experienced cost deltas of 0.13 and -0.02, respectively.<br>
+- AGG2 maintained a cost trend of £1.02, showing stability in expenses.
+
+<br><br>
+
+<b>Channel Cost Trends</b><br><br>
+- SMS had the highest cost at £2.58, closely followed by WhatsApp at £0.82.<br>
+- RCS incurred a cost of £0.38, indicating a relatively lower expense compared to other channels.
+
+--- Dec 17, 2024 Financial Summary ---
+<b>Country Cost Trends</b><br><br>
+- USA has the highest cost at 0.64 GBP, followed by the United Kingdom at 0.94 GBP.<br>
+- Japan is the lowest cost country at 0.48 GBP.<br><br>
+
+<b>Aggregator Cost Trends</b><br><br>
+- AGG3 has the highest cost at 1.39 GBP, followed by AGG1 at 1.38 GBP.<br>
+- AGG2 has a lower cost compared to the top aggregators, at 1.07 GBP.<br><br>
+
+<b>Channel Cost Trends</b><br><br>
+- SMS has the highest cost at 2.66 GBP, followed by WhatsApp at 0.82 GBP.<br>
+- RCS has the lowest cost among channels at 0.35 GBP.
+
+--- Dec 18, 2024 Financial Summary ---
+<b>Country Cost Trends</b><br><br>
+- United Kingdom had the highest cost at 0.88 GBP, followed by India at 0.56 GBP.<br>
+- USA had the third-highest cost at 0.55 GBP.<br><br><b>Aggregator Cost Trends</b><br><br>
+- AGG3 had the highest cost at 1.37, AGG1 follows at 1.28, and AGG2 at 1.10.<br>
+- AGG2 had a cost increase of 0.03, while AGG3 experienced a decrease of 0.01.<br><br><b>Channel Cost Trends</b><br><br>
+- SMS had the highest cost at 2.63, followed by WhatsApp at 0.78 and RCS at 0.34.<br>
+- RCS had the highest avg cost breakdown at 0.00358 GBP, followed closely by 0.00350 GBP.
+
+--- Dec 19, 2024 Financial Summary ---
+<b>Country Cost Trends</b><br><br>
+- USA has the lowest cost at 0.72 GBP, while the United Kingdom leads at 0.98 GBP.<br>
+- India shows a cost of 0.55 GBP, indicating a potential for cost optimization.<br><br>
+<b>Aggregator Cost Trends</b><br><br>
+- AGG3 has the highest cost at 1.63 GBP, with AGG1 following closely at 1.50 GBP.<br>
+- AGG2 shows a cost of 1.23 GBP, highlighting a moderate cost position.<br><br>
+<b>Channel Cost Trends</b><br><br>
+- SMS has the highest cost at 2.99 GBP, while RCS follows at 0.44 GBP.<br>
+- WhatsApp shows a cost of 0.91 GBP, positioning it in the mid-range for costs.
+
+--- Dec 20, 2024 Financial Summary ---
+<b>Country Cost Trends</b><br><br>
+- United Kingdom had the highest cost at 0.88 GBP followed by Japan at 0.61 GBP.<br>
+- USA ranked third with a cost of 0.59 GBP.<br><br>
+<b>Aggregator Cost Trends</b><br><br>
+- AGG3 was the cost leader at 1.48 GBP, followed by AGG1 at 1.44 GBP.<br>
+- AGG2 had a cost of 1.24 GBP.<br><br>
+<b>Channel Cost Trends</b><br><br>
+- SMS had the highest cost at 2.91 GBP, WhatsApp followed at 0.86 GBP.<br>
+- RCS was third with a cost of 0.38 GBP.
+
+--- Dec 21, 2024 Financial Summary ---
+<b>Country Cost Trends</b><br><br>
+- USA had a 5.72% increase in costs compared to India's 0.77% rise.<br>
+- United Kingdom remains the cost leader at 0.91 GBP, followed by the USA at 0.64 GBP.<br><br>
+<b>Aggregator Cost Trends</b><br><br>
+- AGG3's costs went up by 9.60% while AGG1's costs decreased by 2.12%.<br>
+- AGG3 had the highest cost at 1.62 GBP, followed by AGG1 at 1.41 GBP.<br><br>
+<b>Channel Cost Trends</b><br><br>
+- SMS had the highest cost at 2.80 GBP, WhatsApp at 0.92 GBP, and RCS at 0.46 GBP.<br>
+- RCS showed the lowest cost among channels and had a relatively stable cost trend.
+
+--- Dec 22, 2024 Financial Summary ---
+<b>Country Cost Trends</b><br><br>
+- United Kingdom had the highest cost at 1.04, followed by USA at 0.65.<br>
+- Japan's cost was 0.61, showing a steady performance in the country.<br><br>
+
+<b>Aggregator Cost Trends</b><br><br>
+- AGG3 had the highest cost at 1.64, with a noticeable lead over AGG1 and AGG2.<br>
+- AGG1 and AGG2 had costs of 1.52 and 1.18 respectively, with AGG2 showing the lowest cost.<br><br>
+
+<b>Channel Cost Trends</b><br><br>
+- SMS had the highest cost at 3.07, significantly higher than WhatsApp and RCS.<br>
+- WhatsApp and RCS had costs of 0.89 and 0.37 respectively, with RCS showing the lowest cost.
+
+--- Dec 23, 2024 Financial Summary ---
+<b>Country Cost Trends</b><br><br>
+- United Kingdom had the highest cost at 0.89, followed by USA at 0.69 and Japan at 0.64.<br>
+- Day-on-day cost decreased by 1.58%, but week-on-week cost increased by 9.39%.
+
+<br><br>
+
+<b>Aggregator Cost Trends</b><br><br>
+- AGG3 had the highest cost at 1.58, followed by AGG1 at 1.41 and AGG2 at 1.27.<br>
+- AGG2 increased by 0.08, while AGG3 decreased by 0.03.
+
+<br><br>
+
+<b>Channel Cost Trends</b><br><br>
+- Highest costs were in SMS at 2.98, WhatsApp at 0.88, and RCS at 0.41.<br>
+- The highest average cost breakdown occurred in Nigeria for AGG1 on RCS and WhatsApp channels.
+
+--- Dec 24, 2024 Financial Summary ---
+<b>Country Cost Trends</b><br><br>
+- United Kingdom incurred the highest cost on Dec 24, 2024 at 0.79 GBP.<br>
+- USA had a cost of 0.60 GBP and India had a cost of 0.50 GBP.<br><br>
+
+<b>Aggregator Cost Trends</b><br><br>
+- AGG3 saw a cost decrease of 14.39%, totaling 1.36 GBP.<br>
+- AGG1 had a cost reduction of 15.03%, with a total cost of 1.20 GBP.<br><br>
+
+<b>Channel Cost Trends</b><br><br>
+- SMS had the highest cost at 2.50 GBP, followed by WhatsApp at 0.72 GBP.<br>
+- RCS had a cost of 0.37 GBP on Dec 24, 2024.
+
+--- Dec 25, 2024 Financial Summary ---
+<b>Country Cost Trends</b><br><br>
+- USA has the lowest cost at £0.92, while United Kingdom leads with £1.35. <br>
+- India's cost is £0.81, positioning it as the third most expensive country. <br><br>
+
+<b>Aggregator Cost Trends</b><br><br>
+- AGG1 is the most expensive at £2.03, followed closely by AGG3 at £2.04. <br>
+- AGG2 comes in third with a cost of £1.57, showing a significant difference in pricing. <br><br>
+
+<b>Channel Cost Trends</b><br><br>
+- SMS is the costliest channel at £3.92, with a large gap from WhatsApp at £1.13. <br>
+- RCS has the lowest cost at £0.59, indicating a more cost-effective choice. 
+
+--- Dec 26, 2024 Financial Summary ---
+<b>Country Cost Trends</b><br><br>
+- USA has the lowest cost at 0.77 GBP.<br>
+- Japan ranks third in cost at 0.61 GBP.<br><br>
+<b>Aggregator Cost Trends</b><br><br>
+- AGG3 has the highest cost at 1.67 GBP.<br>
+- AGG2 showed a decrease in cost by 0.16 GBP.<br><br>
+<b>Channel Cost Trends</b><br><br>
+- SMS has the highest cost at 3.16 GBP.<br>
+- RCS has the lowest cost at 0.47 GBP.
+
+--- Dec 27, 2024 Financial Summary ---
+<b>Country Cost Trends</b><br><br>
+- United Kingdom remains the cost leader at £0.94, followed by the USA at £0.67.<br>
+- India sees a decrease in cost to £0.53, aligning with the overall -11.99% day-on-day change.<br><br>
+
+<b>Aggregator Cost Trends</b><br><br>
+- AGG3 maintains the top spot with a cost of £1.46, while AGG1 follows closely at £1.41.<br>
+- AGG2 costs £1.10, indicating a slight decrease in comparison to the previous week.<br><br>
+
+<b>Channel Cost Trends</b><br><br>
+- SMS continues to have the highest cost at £2.75, with WhatsApp at £0.81 and RCS at £0.41.<br>
+- The data reflects a notable difference in costs among the three channels, with SMS leading significantly.
+
+--- Dec 28, 2024 Financial Summary ---
+<b>Country Cost Trends</b><br><br>
+- United Kingdom remains the cost leader at £0.94, followed by USA at £0.65. <br>
+- India maintains a competitive cost of £0.60, showing consistent pricing stability.
+
+<br><br>
+
+<b>Aggregator Cost Trends</b><br><br>
+- AGG1 leads in cost at £1.49, with AGG3 close behind at £1.46. <br>
+- AGG2 is competitive but trails at £1.26, showing potential for cost optimization.
+
+<br><br>
+
+<b>Channel Cost Trends</b><br><br>
+- SMS stands out as cost leader at £2.97, significantly higher than WhatsApp at £0.77. <br>
+- RCS maintains a lower cost at £0.46, indicating potential cost-saving opportunities.
+
+--- Dec 29, 2024 Financial Summary ---
+<b>Country Cost Trends</b><br><br>
+- United Kingdom remains the cost leader at 0.91 GBP. <br>
+- Japan's cost is 0.58 GBP, showing a consistent trend.<br><br>
+
+<b>Aggregator Cost Trends</b><br><br>
+- AGG3 has increased by 0.07 to 1.56, while AGG2 decreased to 1.20.<br>
+- AGG1 maintains a cost of 1.37, showing stability in rates.<br><br>
+
+<b>Channel Cost Trends</b><br><br>
+- SMS continues to lead with a cost of 2.93 GBP. <br>
+- WhatsApp stands at 0.82 GBP, maintaining its position in channel costs.
+
+--- Dec 30, 2024 Financial Summary ---
+<b>Country Cost Trends</b><br><br>
+- United Kingdom continues to lead with a cost of 0.92 GBP.<br>
+- USA follows closely behind with a cost of 0.65 GBP.<br><br>
+<b>Aggregator Cost Trends</b><br><br>
+- AGG3 remains on top with a cost of 1.55 GBP.<br>
+- AGG1 and AGG2 follow with costs of 1.52 GBP and 1.20 GBP respectively.<br><br>
+<b>Channel Cost Trends</b><br><br>
+- SMS maintains its lead with a cost of 2.97 GBP.<br>
+- WhatsApp follows with a cost of 0.91 GBP, while RCS costs 0.40 GBP.
+
+--- Dec 31, 2024 Financial Summary ---
+<b>Country Cost Trends</b><br><br>
+- USA had the highest cost at 0.61725 GBP.<br>
+- India had the third highest cost at 0.60265 GBP.<br><br>
+<b>Aggregator Cost Trends</b><br><br>
+- AGG1 was the top aggregator with a cost of 1.48211.<br>
+- AGG2 had a cost increase of 0.0288 from the previous period.<br><br>
+<b>Channel Cost Trends</b><br><br>
+- SMS had the highest cost at 2.91731 GBP.<br>
+- RCS had the third highest cost at 0.41298 GBP.
+
+--- Jan 1, 2025 Financial Summary ---
+<b>Country Cost Trends</b><br><br>
+- United Kingdom leads in cost at £1.35, followed by USA at £0.84. India trails at £0.81.<br>
+- Day-on-day cost change is a significant 37.85%, with a minor 1.56% week-on-week change.<br><br>
+
+<b>Aggregator Cost Trends</b><br><br>
+- AGG3 has the highest cost at £2.20, with AGG1 at £1.90 and AGG2 at £1.64.<br>
+- AGG3 shows the most significant cost increase at 52.60%, while AGG2 follows at 32.08%.<br><br>
+
+<b>Channel Cost Trends</b><br><br>
+- SMS tops costs at £3.99, WhatsApp follows at £1.18, and RCS is lowest at £0.56.<br>
+- An analysis reveals RCS had the highest average cost breakdown at £0.00346, closely followed by WhatsApp.
+
+--- Jan 2, 2025 Financial Summary ---
+<b>Country Cost Trends</b><br><br>
+- Highest cost leaders on Jan 2, 2025: United Kingdom at 0.84 GBP and USA at 0.57 GBP.<br><br>
+- Day-on-day cost change: -37.38%. Week-on-week change: -1.98%. India cost leader at 0.56 GBP.
+
+<b>Aggregator Cost Trends</b><br><br>
+- Top aggregators by cost: AGG3 at 1.37, AGG1 at 1.18, AGG2 at 1.05 GBP.<br><br>
+- AGG2 cost decreased by 0.36% and AGG3 cost decreased by 0.38% on Jan 2, 2025.
+
+<b>Channel Cost Trends</b><br><br>
+- Channel cost leaders: SMS at 2.43, WhatsApp at 0.73, RCS at 0.43 GBP.<br><br>
+- Highest avg cost breakdown for RCS channel in Palestine: 0.0035 GBP.
+
+--- Jan 3, 2025 Financial Summary ---
+<b>Country Cost Trends</b><br><br>
+- United Kingdom had the highest cost at 0.92 GBP.<br>
+- Japan's cost was 0.52 GBP, showing the lowest among the top countries.<br><br>
+<b>Aggregator Cost Trends</b><br><br>
+- AGG3 had the highest cost at 1.52, showing the highest spend.<br>
+- AGG2 had a cost of 1.13, reflecting a significant increase.<br><br>
+<b>Channel Cost Trends</b><br><br>
+- SMS had the highest cost at 2.78, indicating the most expensive channel.<br>
+- RCS was the least costly at 0.40, showing the lowest among channels.
+
+--- Jan 4, 2025 Financial Summary ---
+<b>Country Cost Trends</b><br><br>
+- Top 3 country leaders: UK (0.73), USA (0.52), India (0.51)<br>
+- Day-on-day cost decrease by 9.62% points to decreasing weekly trend of -3.79%<br><br><b>Aggregator Cost Trends</b><br><br>
+- Top 3 by cost: AGG3 (1.28), AGG1 (1.24), AGG2 (1.03)<br>
+- AGG2 shows largest delta decrease at -9.37%, AGG1 follows at -2.54%<br><br><b>Channel Cost Trends</b><br><br>
+- SMS remains cost leader at 2.47, WhatsApp (0.73), RCS (0.34)<br>
+- Avg cost breakdown reveals WhatsApp on the rise at 0.0035, just edging out SMS at 0.00346
+
+--- Jan 5, 2025 Financial Summary ---
+<b>Country Cost Trends</b><br><br>
+- USA continues to lead in cost at 0.59 GBP with a daily increase of 6.4%.<br>
+- India shows a cost decrease to 0.53 GBP with a week-on-week change of -4.38%.<br><br>
+<b>Aggregator Cost Trends</b><br><br>
+- AGG1 maintains the highest cost at 1.34 GBP with a delta of 0.08. <br>
+- AGG2 follows closely at 1.09 GBP showing a delta of 0.06.<br><br>
+<b>Channel Cost Trends</b><br><br>
+- SMS remains the cost leader at 2.69 GBP, showing consistent high costs. <br>
+- RCS displays a low cost of 0.32 GBP, positioning as the most economical channel.
+
+--- Jan 6, 2025 Financial Summary ---
+<b>Country Cost Trends</b><br><br>
+- United Kingdom had the highest cost at £0.83, followed by USA at £0.59.<br>
+-.<br><br>
+<b>Aggregator Cost Trends</b><br><br>
+- AGG3 had the highest cost at £1.40, with a positive cost change delta.<br>
+- AGG2 had a cost decrease of 1.57%, showing a significant downward trend.<br><br>
+<b>Channel Cost Trends</b><br><br>
+- SMS channel had the highest cost at £2.57, indicating a costlier channel option.<br>
+- WhatsApp and RCS channels had lower costs at £0.73 and £0.38 respectively, showing cost-effective alternatives.
+
+--- Jan 7, 2025 Financial Summary ---
+<b>Country Cost Trends</b><br><br>
+- USA had the highest cost on Jan 7 at 0.59483. <br>
+- India had the lowest cost on Jan 7 at 0.51861. <br><br><b>Aggregator Cost Trends</b><br><br>
+- AGG3 had the highest cost at 1.461 on Jan 7. <br>
+- AGG2 had the lowest cost at 1.04867 on Jan 7. <br><br><b>Channel Cost Trends</b><br><br>
+- SMS had the highest cost at 2.81497 on Jan 7. <br>
+- RCS had the lowest cost at 0.33725 on Jan 7. 
+
+--- Jan 8, 2025 Financial Summary ---
+<b>Country Cost Trends</b><br><br>
+- United Kingdom has the highest cost at £0.78, followed by USA at £0.67. <br>
+- India shows the lowest cost trend at £0.55, indicating potential cost savings.
+
+<br><br>
+
+<b>Aggregator Cost Trends</b><br><br>
+- AGG1 leads in cost at £1.48, with a notable increase compared to AGG3 at £1.32. <br>
+- AGG2 trails behind at £1.08, showing a significant cost differential.
+
+<br><br>
+
+<b>Channel Cost Trends</b><br><br>
+- SMS incurs the highest cost per unit at £2.71, highlighting a premium channel. <br>
+- WhatsApp and RCS follow at £0.78 and £0.39 respectively, showing lower cost alternatives.
+
+--- Jan 9, 2025 Financial Summary ---
+<b>Country Cost Trends</b><br><br>
+- USA cost decreased by -12.37% day-on-day, leading with $0.58728.<br>
+- India cost trend improved, showing a -5.49% decrease from the previous day at $0.50236.<br><br>
+
+<b>Aggregator Cost Trends</b><br><br>
+- AGG3 cost increased by 0.0874 compared to AGG2's decrease of -0.1179.<br>
+- AGG1 remains a top aggregator with a cost of $1.2792.<br><br>
+
+<b>Channel Cost Trends</b><br><br>
+- SMS channel stands out with the highest cost at $2.59717.<br>
+- WhatsApp and RCS follow with costs of $0.69959 and $0.37143, respectively.
+
+--- Jan 10, 2025 Financial Summary ---
+<b>Country Cost Trends</b><br><br>
+- United Kingdom had the highest cost at 0.77 GBP.<br>
+- Japan experienced a cost of 0.58 GBP, ranking second in country cost leaders.<br><br>
+<b>Aggregator Cost Trends</b><br><br>
+- AGG3 led with a cost of 1.36, followed by AGG1 at 1.28.<br>
+- AGG2 had a cost of 1.05, showing a significant difference from other aggregators.<br><br>
+<b>Channel Cost Trends</b><br><br>
+- SMS channel recorded the highest cost at 2.56 GBP.<br>
+- WhatsApp had a cost of 0.78 GBP, while RCS cost was significantly lower at 0.36 GBP.
+
+--- Jan 11, 2025 Financial Summary ---
+<b>Country Cost Trends</b><br><br>
+- United Kingdom has the highest cost at 0.78 GBP followed by Japan at 0.57 GBP.<br>
+- USA ranks third in cost at 0.51 GBP, showing a diverse cost distribution among countries.<br><br>
+<b>Aggregator Cost Trends</b><br><br>
+- AGG3 leads aggregators with a cost of 1.38, followed by AGG1 at 1.29 and AGG2 at 1.01.<br>
+- AGG1 and AGG3 have the highest deltas indicating significant changes in cost.<br><br>
+<b>Channel Cost Trends</b><br><br>
+- SMS shows the highest cost at 2.65, followed by WhatsApp at 0.72 and RCS at 0.31.<br>
+- The wide gap between SMS and RCS costs highlights channel cost disparities.
+
+--- Jan 12, 2025 Financial Summary ---
+<b>Country Cost Trends</b><br><br>
+- United Kingdom has the highest cost at £0.81, followed by USA at £0.54.<br>
+- Japan ranks third with a cost of £0.51.<br><br>
+
+<b>Aggregator Cost Trends</b><br><br>
+- AGG3 is the cost leader at £1.29, followed by AGG1 at £1.25.<br>
+- AGG2 has the lowest cost at £0.93.<br><br>
+
+<b>Channel Cost Trends</b><br><br>
+- SMS has the highest cost at £2.46, followed by WhatsApp at £0.68.<br>
+- RCS ranks third with a cost of £0.34.
+
+--- Jan 13, 2025 Financial Summary ---
+<b>Country Cost Trends</b><br><br>
+- United Kingdom had the highest cost at 0.86 GBP.
+<br>
+- Japan had the third highest cost at 0.54 GBP.
+
+<br><br>
+
+<b>Aggregator Cost Trends</b><br><br>
+- AGG3 had the highest cost at 1.46 GBP.
+<br>
+- AGG2 cost increased by 0.14 GBP compared to AGG3.
+
+<br><br>
+
+<b>Channel Cost Trends</b><br><br>
+- SMS had the highest cost at 2.75 GBP.
+<br>
+- RCS had a cost of 0.40 GBP, lower than WhatsApp's 0.73 GBP.
+
+--- Jan 14, 2025 Financial Summary ---
+<b>Country Cost Trends</b><br><br>
+- United Kingdom has the highest cost at 0.87, followed by India at 0.56.<br>
+- USA ranks third in cost at 0.56, with a slight difference from India.<br><br>
+<b>Aggregator Cost Trends</b><br><br>
+- AGG1 and AGG3 are top aggregators, closely priced at around 1.39.<br>
+- AGG2 follows with a lower cost of around 1.06.<br><br>
+<b>Channel Cost Trends</b><br><br>
+- SMS has the highest cost leader at 2.67, significantly above WhatsApp at 0.77.<br>
+- RCS follows with a cost of 0.40, showing a lower cost compared to other channels.
+
+--- Jan 15, 2025 Financial Summary ---
+<b>Country Cost Trends</b><br><br>
+- UK remains cost leader at £0.83, followed by USA at £0.61 and India at £0.53.<br>
+- Cost decreased by 5.76% day-on-day and 1.7% week-on-week.<br><br>
+
+<b>Aggregator Cost Trends</b><br><br>
+- AGG3 leads with cost of 1.41, AGG1 follows with 1.25, and AGG2 at 0.96.<br>
+- AGG3 costs increased by 1.26%, while AGG2 decreased by 9.19%.<br><br>
+
+<b>Channel Cost Trends</b><br><br>
+- SMS is cost leader at 2.53, WhatsApp at 0.72, and RCS at 0.36.<br>
+- Highest avg cost breakdown: AGG1 in Nigeria for RCS and WhatsApp at £0.00358.
+
+--- Dec 15, 2024 Financial Summary ---
+<b>Country Cost Trends</b><br><br>
+- United Kingdom maintained its cost leadership with an average cost of 0.89 GBP, while India's cost held flat at 0.49 GBP.<br>
+- USA experienced a cost increase to 0.59 GBP, climbing steeply by 4.98% week-on-week.<br><br>
+
+<b>Aggregator Cost Trends</b><br><br>
+- AGG1 remained a top aggregator with a cost of 1.24, showing a 0.11 cost decrease delta compared to AGG2.<br>
+- AGG3 cost was 1.40, climbing steeply by 3.8% day-on-day.<br><br>
+
+<b>Channel Cost Trends</b><br><br>
+- SMS maintained its cost leadership at 2.55, while WhatsApp cost was 0.78 GBP, held flat compared to previous data.<br>
+- RCS had a lower cost at 0.37 GBP, indicating a significant cost difference compared to SMS and WhatsApp.
+
+--- Dec 16, 2024 Financial Summary ---
+<b>Country Cost Trends</b><br><br>
+- United Kingdom led with a cost of 0.89 GBP, while USA trailed at 0.58 GBP. India stood in between at 0.61 GBP.<br>
+- Costs rose 3.94% week-on-week and 2.59% day-on-day across all countries.<br><br>
+
+<b>Aggregator Cost Trends</b><br><br>
+- AGG1 had the highest cost at 1.40, followed by AGG3 at 1.37 and AGG2 at 1.02.<br>
+- AGG1's cost increased by 0.13, while AGG3's cost decreased by 0.02 compared to the previous period.<br><br>
+
+<b>Channel Cost Trends</b><br><br>
+- SMS costs soared to 2.58 GBP, WhatsApp came in at 0.82 GBP, and RCS was the cheapest at 0.38 GBP.<br>
+- Averaging costs, WhatsApp was dominant at 0.0035 GBP, showing consistency across the board.
+
+--- Dec 17, 2024 Financial Summary ---
+<b>Country Cost Trends</b><br><br>
+- The United Kingdom led with a cost of 0.94, while Japan trailed with 0.48.<br>
+- Costs climbed steeply compared to the previous day and week, showing a 1.38% and 2.8% increase respectively.<br><br>
+
+<b>Aggregator Cost Trends</b><br><br>
+- AGG3 maintained the highest cost at 1.39, with AGG1 close behind at 1.38.<br>
+- AGG2 held flat with a cost of 1.07, showing a minimal delta compared to other aggregators.<br><br>
+
+<b>Channel Cost Trends</b><br><br>
+- SMS dominated with a high cost of 2.66, followed by WhatsApp at 0.82 and RCS at 0.35.<br>
+- AGG1 and AGG2 had the highest average costs breakdown, targeting Nigeria and Palestine via RCS and SMS channels respectively.
+
+--- Dec 18, 2024 Financial Summary ---
+<b>Country Cost Trends</b><br><br>
+- United Kingdom maintained its cost leader position with a price of 0.88 GBP, while India followed closely at 0.56 GBP.<br>
+- Despite fluctuations, the USA remained stable at 0.55 GBP in cost.<br><br>
+
+<b>Aggregator Cost Trends</b><br><br>
+- AGG3 experienced a decrease in cost by 1.28%, reaching 1.37 GBP, while AGG2 increased slightly by 0.03%.<br>
+- AGG1 held steady at 1.28 GBP, showing no significant cost change.<br><br>
+
+<b>Channel Cost Trends</b><br><br>
+- SMS continued to dominate with a cost of 2.63 GBP, followed by WhatsApp at 0.78 GBP and RCS at 0.34 GBP.<br>
+- There were no major fluctuations in channel costs, indicating overall stability in this area.
+
+--- Dec 19, 2024 Financial Summary ---
+<b>Country Cost Trends</b><br><br>
+- The United Kingdom maintained its lead with a cost of 0.98 GBP, while the USA held steady at 0.72 GBP. India's cost decreased to 0.55 GBP.<br>
+
+<b>Aggregator Cost Trends</b><br><br>
+- AGG3 saw a significant cost increase of 18.46% to 1.63 GBP, while AGG1 climbed 16.75% to 1.50 GBP. AGG2's cost remained stable at 1.23 GBP.<br>
+
+<b>Channel Cost Trends</b><br><br>
+- SMS continued to have the highest cost at 2.99 GBP, WhatsApp maintained a cost of 0.91 GBP, and RCS saw a slight decrease to 0.44 GBP.
+
+--- Dec 20, 2024 Financial Summary ---
+<b>Country Cost Trends</b><br><br>
+- Costs in the United Kingdom decreased by 4.49% day-on-day, showing a significant drop in expenses. <br>
+- Japan reported a week-on-week cost increase of 3.4%, indicating a notable uptick in expenses.<br><br>
+
+<b>Aggregator Cost Trends</b><br><br>
+- AGG3 remains the top aggregator with a cost of 1.48138, while AGG1 follows closely at 1.43963, showcasing consistent pricing. <br>
+- AGG2 cost climbed steeply by 0.74%, demonstrating a notable increase in expenses compared to other aggregators.<br><br>
+
+<b>Channel Cost Trends</b><br><br>
+- SMS continues to lead in channel costs at 2.90807, maintaining a significant cost margin over other channels. <br>
+- RCS showed a cost increase of 0.44% day-on-day, signaling a slight rise in expenses within the channel.
+
+--- Dec 21, 2024 Financial Summary ---
+<b>Country Cost Trends</b><br><br>
+- The cost in the United Kingdom increased by 0.77% day-on-day, reaching 0.91 GBP.<br>
+- USA costs climbed steeply by 5.72% week-on-week, hitting 0.64 GBP.
+
+<br><br>
+
+<b>Aggregator Cost Trends</b><br><br>
+- AGG3 saw a cost uptick of 0.10 GBP, a 5.92% increase.<br>
+- AGG1's cost held flat, showing a negligible decrease of 0.02 GBP.
+
+<br><br>
+
+<b>Channel Cost Trends</b><br><br>
+- SMS remained the most expensive channel at 2.80 GBP, maintaining its lead.<br>
+- WhatsApp costs remained relatively stable at 0.92 GBP, showing minor fluctuation.
+
+--- Dec 22, 2024 Financial Summary ---
+<b>Country Cost Trends</b><br><br>
+- The cost in the United Kingdom rose steeply by 7.58% compared to the previous week.<br>
+- USA costs climbed by 3.46% day-on-day, remaining relatively stable week-on-week.<br><br>
+
+<b>Aggregator Cost Trends</b><br><br>
+- AGG1 held flat in cost, while AGG2 experienced a slight 1.94% increase in expenses.<br>
+- AGG3 maintained the highest cost among aggregators at 1.64, showing no significant changes.<br><br>
+
+<b>Channel Cost Trends</b><br><br>
+- SMS costs continued to lead at 3.07, remaining the highest among all channels.<br>
+- WhatsApp costs were steady, while RCS costs saw a slight increase, reaching 0.37.
+
+--- Dec 23, 2024 Financial Summary ---
+<b>Country Cost Trends</b><br><br>
+- The United Kingdom maintained the highest cost at 0.89 GBP, while the USA followed closely at 0.69 GBP.<br>
+- Japan saw a significant increase in cost reaching 0.64 GBP, climbing steeply from the previous period.
+
+<br><br>
+
+<b>Aggregator Cost Trends</b><br><br>
+- AGG3 experienced a decrease in cost by 0.03, now standing at 1.58 GBP, leading the top aggregators.<br>
+- AGG2's cost increased by 0.08, reaching 1.27 GBP, while AGG1 remained relatively flat at 1.41 GBP.
+
+<br><br>
+
+<b>Channel Cost Trends</b><br><br>
+- SMS continued to have the highest cost at 2.98 GBP, holding its position as the channel cost leader.<br>
+- WhatsApp maintained a lower cost of 0.88 GBP, while RCS also stayed relatively flat at 0.41 GBP.
+
+--- Dec 24, 2024 Financial Summary ---
+<b>Country Cost Trends</b><br><br>
+- The United Kingdom maintained its lead with a cost of 0.79 GBP, while the USA saw a slight increase to 0.60 GBP.<br>
+- India's cost remained stable at 0.50 GBP.<br><br>
+
+<b>Aggregator Cost Trends</b><br><br>
+- AGG3 experienced a significant cost decrease of 14.39%, leading with a cost of 1.36.<br>
+- Despite a drop of 15.03%, AGG1 held the second spot with a cost of 1.20.<br><br>
+
+<b>Channel Cost Trends</b><br><br>
+- The SMS channel continued to have the highest cost at 2.50 GBP, showing no significant change.<br>
+- WhatsApp maintained its second position with a cost of 0.72 GBP, while RCS remained at 0.37 GBP.
+
+--- Dec 25, 2024 Financial Summary ---
+<b>Country Cost Trends</b><br><br>
+- USA costs climbed steeply by 57.41% on Dec 25, 2024, reaching 0.92064 GBP per unit.<br>
+- India's costs also rose significantly, up by 17.54% from the previous week to 0.80583 GBP per unit.<br><br>
+
+<b>Aggregator Cost Trends</b><br><br>
+- AGG1 maintained costs flat at 2.03488 GBP per unit on Dec 25, 2024.<br>
+- AGG2 showed a notable increase in costs, rising to 1.57355 GBP per unit with a delta of 0.52085.<br><br>
+
+<b>Channel Cost Trends</b><br><br>
+- SMS remained the highest cost channel at 3.92074 GBP per unit on Dec 25, 2024.<br>
+- WhatsApp costs held steady at 1.13225 GBP per unit, maintaining its position as the second highest cost channel.
+
+--- Dec 26, 2024 Financial Summary ---
+<b>Country Cost Trends</b><br><br>
+- The United Kingdom maintained its leading position with a cost of 1.03 GBP<br>
+- Costs in the USA saw a significant decrease, dropping to 0.77 GBP<br><br><b>Aggregator Cost Trends</b><br><br>
+- AGG3 experienced a substantial cost reduction, down by 18.22%<br>
+- AGG2 exhibited the steepest decline in costs, plummeting by 16.07%<br><br><b>Channel Cost Trends</b><br><br>
+- SMS continued to dominate with a high cost of 3.16 GBP<br>
+- RCS costs remained relatively low compared to others, at 0.47 GBP
+
+--- Dec 27, 2024 Financial Summary ---
+<b>Country Cost Trends</b><br><br>
+- Cost in United Kingdom decreased by 11.99% day-on-day, remaining the highest at £0.94.<br>
+- USA costs climbed steeply by 12.44% week-on-week to £0.67.<br><br>
+<b>Aggregator Cost Trends</b><br><br>
+- AGG1 costs held flat at £1.41, while AGG3 costs dropped by 12.41% to £1.46.<br>
+- AGG2 remained the lowest cost aggregator at £1.10, with a small decrease.<br><br>
+<b>Channel Cost Trends</b><br><br>
+- SMS maintained the highest cost at £2.75, while WhatsApp costs were £0.81.<br>
+- RCS costs were the lowest at £0.41, showcasing a consistent trend.
+
+--- Dec 28, 2024 Financial Summary ---
+<b>Country Cost Trends</b><br><br>
+- The cost in the United Kingdom climbed steeply by 5.91% compared to the previous day.
+<br>
+- Costs in the USA held flat, showing no change compared to a week ago.
+
+<br><br>
+
+<b>Aggregator Cost Trends</b><br><br>
+- AGG1 saw a moderate increase of 5.45% in costs compared to AGG2.
+<br>
+- AGG3 experienced a slight decrease in costs by 3.52% compared to AGG1.
+
+<br><br>
+
+<b>Channel Cost Trends</b><br><br>
+- SMS continued to be the highest cost leader with a cost of 2.97.
+<br>
+- RCS costs saw a significant decrease by 8.51% compared to the previous week.
+
+--- Dec 29, 2024 Financial Summary ---
+<b>Country Cost Trends</b><br><br>
+- United Kingdom led with a cost of 0.91, while Japan followed at 0.58, and the USA had a cost of 0.66.<br>
+- Costs for all countries decreased day-on-day by 1.64%, with the UK showing the highest week-on-week increase of 6.77%.<br><br>
+
+<b>Aggregator Cost Trends</b><br><br>
+- AGG3 had the highest cost at 1.56, AGG1 followed closely at 1.37, and AGG2 had the lowest cost at 1.20.<br>
+- AGG3 cost climbed steeply by 0.07, while AGG2's cost fell by 0.05 compared to the previous date.<br><br>
+
+<b>Channel Cost Trends</b><br><br>
+- SMS had the highest cost at 2.93, WhatsApp followed at 0.82, and RCS had the lowest cost at 0.39.<br>
+- The average cost for RCS climbed sharply to 0.39, while SMS and WhatsApp costs remained relatively stable.
+
+--- Dec 30, 2024 Financial Summary ---
+<b>Country Cost Trends</b><br><br>
+- The cost in the United Kingdom climbed steeply by 3.3% day-on-day, reaching 0.92 GBP.<br>
+- USA costs increased by 5.03% week-on-week, hitting 0.65 GBP.
+
+<br><br>
+
+<b>Aggregator Cost Trends</b><br><br>
+- AGG3 held flat with a cost of 1.55 GBP, while AGG1 increased by 0.11 GBP.<br>
+- AGG2 saw a marginal cost rise of 0.0003 GBP, reaching 1.20 GBP.
+
+<br><br>
+
+<b>Channel Cost Trends</b><br><br>
+- SMS remained the highest cost leader at 2.97 GBP, showing no significant change.<br>
+- WhatsApp costs held steady at 0.91 GBP, with RCS trailing at 0.40 GBP.
+
+--- Dec 31, 2024 Financial Summary ---
+<b>Country Cost Trends</b><br><br>
+- The United Kingdom maintained its lead with a cost of 0.95 GBP.<br>
+- India saw a slight increase in cost, now at 0.60 GBP.
+
+<br><br>
+
+<b>Aggregator Cost Trends</b><br><br>
+- AGG1 remains the highest cost aggregator at 1.48 GBP.<br>
+- AGG2 experienced a cost decrease, now at 1.24 GBP.
+
+<br><br>
+
+<b>Channel Cost Trends</b><br><br>
+- SMS continues to be the highest cost channel at 2.92 GBP.<br>
+- WhatsApp and RCS costs are at 0.83 GBP and 0.41 GBP respectively.
+
+--- Jan 1, 2025 Financial Summary ---
+<b>Country Cost Trends</b><br><br>
+- The United Kingdom maintained its lead in cost at £1.35, while the USA followed closely at £0.84.<br>
+- India's costs remained steady at £0.81 despite overall cost increases.<br><br>
+
+<b>Aggregator Cost Trends</b><br><br>
+- AGG3 saw a significant cost increase to £2.20, surpassing AGG1 and AGG2.<br>
+- AGG2 experienced a moderate increase in cost to £1.64, trailing behind AGG3 and AGG1.<br><br>
+
+<b>Channel Cost Trends</b><br><br>
+- The SMS channel continued to hold the highest cost at £3.99, maintaining its position.<br>
+- WhatsApp and RCS costs remained relatively stable at £1.18 and £0.56, respectively, compared to other channels.
+
+--- Jan 2, 2025 Financial Summary ---
+<b>Country Cost Trends</b><br><br>
+- Cost in United Kingdom decreased by 37.38% day-on-day to 0.83822. <br>
+- USA cost remained relatively flat week-on-week at 0.57437.<br><br>
+
+<b>Aggregator Cost Trends</b><br><br>
+- AGG2 cost fell sharply by 35.96% to 1.04736. <br>
+- AGG3 cost dropped significantly by 37.91% to 1.36577.<br><br>
+
+<b>Channel Cost Trends</b><br><br>
+- SMS maintained its high cost leadership at 2.43276. <br>
+- WhatsApp cost stayed steady at 0.73388.
+
+--- Dec 15, 2024 Financial Summary ---
+<b>Country Cost Trends</b><br><br>
+- United Kingdom costs held flat at 0.89 GBP, while USA costs climbed steeply to 0.59 GBP. <br>
+  Next steps: Review traffic patterns in these countries to understand the cost changes.
+
+<br><br>
+
+<b>Aggregator Cost Trends</b><br><br>
+- AGG3 remains the cost leader at 1.40 GBP, AGG1 followed closely at 1.24 GBP. AGG2 costs increased to 1.05 GBP. <br>
+  Next steps: Investigate reasons for cost increase at AGG2 and assess impact on overall spending.
+
+<br><br>
+
+<b>Channel Cost Trends</b><br><br>
+- SMS continues to lead with a high cost of 2.55 GBP, followed by WhatsApp at 0.78 GBP. RCS costs remain low at 0.37 GBP. <br>
+  Next steps: Analyze usage patterns of each channel to optimize cost-efficiency.
+
+--- Dec 16, 2024 Financial Summary ---
+<b>Country Cost Trends</b><br><br>
+- United Kingdom cost increased by 2.59% day-on-day, now at 0.88914. Monitor for sustained growth or escalation for further analysis.<br>
+- India cost climbed steeply week-on-week by 3.94%, reaching 0.6088. Review traffic patterns to understand the significant increase.<br><br>
+<b>Aggregator Cost Trends</b><br><br>
+- AGG1 remains the top aggregator by cost at 1.39888. Compare performance with other aggregators for cost optimization opportunities.<br>
+- AGG3 cost decreased by 0.02368, now at 1.37. Investigate factors contributing to this decline for potential cost-saving strategies.<br><br>
+<b>Channel Cost Trends</b><br><br>
+- SMS maintains its lead in channel cost at 2.58389. Evaluate effectiveness against cost efficiency metrics for optimization.<br>
+- WhatsApp cost at 0.81901 continues to hold second place. Explore ways to leverage this channel efficiently for cost management.
+
+--- Dec 17, 2024 Financial Summary ---
+<b>Country Cost Trends</b><br><br>
+- Costs in the United Kingdom decreased by 6.35% day-on-day. Review recent traffic patterns to understand this shift.<br>
+- Costs in Japan climbed steeply by 4.44% week-on-week. Escalate to risk team for further investigation.<br><br>
+<b>Aggregator Cost Trends</b><br><br>
+- AGG3 cost increased by 1.45% day-on-day. Monitor closely for potential impact on overall expenses.<br>
+- AGG2 cost held flat compared to the previous week. Analyze performance to identify underlying reasons.<br><br>
+<b>Channel Cost Trends</b><br><br>
+- SMS channel costs surged by 166.35% day-on-day. Investigate any anomalies or errors in billing.<br>
+- RCS channel costs remained stable, showing no significant changes. Continue to monitor for consistency.
+
+--- Dec 18, 2024 Financial Summary ---
+<b>Country Cost Trends</b><br><br>
+- Cost in the United Kingdom decreased by 2.19% day-on-day, holding the top spot at 0.88 GBP.<br>
+- India's costs climbed steeply week-on-week by 0.93%, now at 0.56 GBP. Consider reviewing traffic patterns from India for optimization.<br><br>
+<b>Aggregator Cost Trends</b><br><br>
+- AGG2's cost increased slightly by 2.91% while AGG3 decreased by 1.28%. AGG3 remains the top aggregator at 1.37 GBP. Evaluate performance metrics for AGG2 to identify opportunities for cost-saving measures.<br>
+- AGG1 held flat with no significant changes in cost, maintaining the second position at 1.28 GBP. Consider analyzing the cost breakdown for AGG1 to identify areas for optimization.<br><br>
+<b>Channel Cost Trends</b><br><br>
+- SMS continues to lead with costs at 2.63 GBP, indicating potential areas for optimization. Review messaging strategies and audience targeting for SMS to maximize cost-effectiveness.<br>
+- RCS costs are at 0.34 GBP, showcasing a competitive rate compared to other channels. Consider leveraging RCS for targeted campaigns to enhance cost-efficiency.
+
+--- Dec 19, 2024 Financial Summary ---
+<b>Country Cost Trends</b><br><br>
+- Costs in the United Kingdom held flat compared to the previous week, with a day-on-day cost increase of 15.92%.<br>
+- India saw costs climb steeply by 15.92% day-on-day, suggesting a need to review traffic patterns.
+
+
+<br><br>
+
+<b>Aggregator Cost Trends</b><br><br>
+- AGG3 experienced a significant 0.18 cost increase, surpassing AGG1 and AGG2 in total cost. <br>
+- AGG1 and AGG2 maintained relatively stable costs with a week-on-week change of 1.91%, indicating stable performance.
+
+
+<br><br>
+
+<b>Channel Cost Trends</b><br><br>
+- SMS continues to be the highest cost channel at 2.99634, significantly higher than WhatsApp and RCS. <br>
+- RCS shows the lowest cost among the channels at 0.44125, suggesting potential optimization opportunities.
+
+--- Dec 20, 2024 Financial Summary ---
+<b>Country Cost Trends</b><br><br>
+- United Kingdom led with a cost of 0.88 GBP, while Japan and the USA followed closely at 0.61 and 0.59 GBP respectively.<br>Suggested action: Review campaign performance in these countries to understand cost drivers.<br>
+- Overall, costs decreased by 4.49% day-on-day and increased by 3.4% week-on-week.<br>Suggested action: Monitor closely for any abnormal fluctuations in costs.
+
+<br><br>
+
+<b>Aggregator Cost Trends</b><br><br>
+- AGG3 had the highest cost at 1.48 GBP, followed by AGG1 at 1.44 GBP, and AGG2 at 1.24 GBP.<br>Suggested action: Investigate cost drivers for AGG3 to optimize spending.<br>
+- AGG2 saw a cost increase of 0.74%, while AGG1 experienced a decrease of 4.03%.<br>Suggested action: Analyze performance metrics for both aggregators to identify areas for improvement.
+
+<br><br>
+
+<b>Channel Cost Trends</b><br><br>
+- SMS had the highest cost at 2.91 GBP, followed by WhatsApp at 0.86 GBP, and RCS at 0.38 GBP.<br>Suggested action: Evaluate effectiveness of SMS channel for future campaigns.<br>
+- The highest average cost breakdown was for AGG1 and AGG2 in Palestine using RCS, with average costs at 0.0035 and 0.0035 GBP respectively.<br>Suggested action: Optimize campaign targeting and messaging for better ROI.
+
+--- Dec 21, 2024 Financial Summary ---
+<b>Country Cost Trends</b><br><br>
+- United Kingdom led with a cost of 0.91 GBP, while USA cost climbed to 0.64 GBP, and India's cost held flat at 0.58 GBP.<br>
+- With a 5.72% increase in week-on-week costs, review traffic patterns in USA and assess potential cost optimization strategies.<br><br>
+<b>Aggregator Cost Trends</b><br><br>
+- AGG3 had a cost of 1.62 GBP, climbing by 0.10 GBP, while AGG1 decreased to 1.41 GBP by 0.02 GBP.<br>
+- Given the cost swings, analyze traffic distribution among top aggregators to ensure cost efficiency and consider renegotiating contracts with higher-cost aggregators.<br><br>
+<b>Channel Cost Trends</b><br><br>
+- SMS had the highest cost at 2.80 GBP, WhatsApp cost was 0.92 GBP, and RCS cost was 0.46 GBP.<br>
+- Due to the significant cost disparity, investigate the effectiveness of SMS as a channel and consider shifting budget to more cost-effective channels like RCS.
+
+--- Dec 22, 2024 Financial Summary ---
+<b>Country Cost Trends</b><br><br>
+- United Kingdom had a 1.04 cost leader, showing a slight increase.
+<br>
+- USA cost leader at 0.65, experiencing a significant cost decrease.
+
+<br><br>
+
+<b>Aggregator Cost Trends</b><br><br>
+- AGG3 led with a cost of 1.64, showing a steep increase.
+<br>
+- AGG1 held flat at 1.52 cost, while AGG2 climbed slightly to 1.18.
+
+<br><br>
+
+<b>Channel Cost Trends</b><br><br>
+- SMS led with a cost of 3.07, seeing a notable increase.
+<br>
+- RCS cost leader at 0.37, remaining stable. Consider reviewing traffic from SMS for optimization.
+
+--- Dec 23, 2024 Financial Summary ---
+<b>Country Cost Trends</b><br><br>
+- United Kingdom had the highest cost at 0.89 GBP, while the USA followed closely behind at 0.69 GBP. Japan held third place at 0.64 GBP.<br>
+- Day-on-day costs decreased by 1.58%, suggesting a potential shift in traffic or campaign performance. Review recent activities in these top countries to understand the impact.
+
+<br><br>
+
+<b>Aggregator Cost Trends</b><br><br>
+- AGG3 remained the highest cost aggregator at 1.58 GBP, followed by AGG1 at 1.41 GBP and AGG2 at 1.27 GBP. AGG2 experienced the largest cost increase at 8%.<br>
+- Monitor the performance of AGG2 closely to understand the factors driving the cost increase. Consider optimizing campaigns or exploring alternative aggregators for cost efficiency.
+
+<br><br>
+
+<b>Channel Cost Trends</b><br><br>
+- SMS had the highest cost at 2.98 GBP, while WhatsApp and RCS followed at 0.88 GBP and 0.41 GBP respectively. SMS costs climbed steeply by 10%.<br>
+- Evaluate the effectiveness of SMS campaigns and explore potential cost-saving measures. Consider shifting focus towards WhatsApp or RCS channels for better cost efficiency.
+
+--- Dec 24, 2024 Financial Summary ---
+<b>Country Cost Trends</b><br><br>
+- United Kingdom had the highest cost at 0.79 GBP, while India had the lowest at 0.50 GBP.<br>
+- Costs decreased by 15.88% day-on-day, suggesting potential savings through optimizing campaigns.<br><br>
+
+<b>Aggregator Cost Trends</b><br><br>
+- AGG3 had the highest cost at 1.36 GBP, followed by AGG1 at 1.20 GBP.<br>
+- AGG1 and AGG3 saw cost reductions, with AGG1 showing a steeper decline, warranting a review of their performance.<br><br>
+
+<b>Channel Cost Trends</b><br><br>
+- SMS had the highest cost at 2.50 GBP, while RCS had the lowest cost at 0.37 GBP.<br>
+- WhatsApp had a moderate cost of 0.72 GBP, indicating potential optimization opportunities to reduce costs in this channel.
+
+--- Dec 25, 2024 Financial Summary ---
+<b>Country Cost Trends</b><br><br>
+- United Kingdom led with a cost of 1.35, showing a 17.54% increase week-on-week.<br>
+- USA followed with a cost of 0.92, which climbed steeply by 57.41% day-on-day.<br><br><b>Aggregator Cost Trends</b><br><br>
+- AGG3 was the top aggregator with a cost of 2.04, holding flat week-on-week.<br>
+- AGG1 closely followed at 2.03, with a day-on-day cost increase of 0.70.<br><br><b>Channel Cost Trends</b><br><br>
+- SMS had the highest cost at 3.92, showing a significant increase week-on-week.<br>
+- WhatsApp cost 1.13, showing a moderate increase week-on-week.
+
+--- Dec 26, 2024 Financial Summary ---
+<b>Country Cost Trends</b><br><br>
+- United Kingdom remained the cost leader with a rate of 1.03, while Japan saw a slight increase to 0.61. USA's cost decreased to 0.77.<br>
+- Consider investigating factors impacting cost in Japan to prevent further escalation. Review traffic patterns in the USA for any anomalies.<br><br>
+<b>Aggregator Cost Trends</b><br><br>
+- AGG3 experienced a significant cost decrease of 18.22%, while AGG2's costs dropped by 16.07%. AGG1 maintained its position with a cost of 1.53.<br>
+- Explore reasons behind the steep cost decline for AGG2 and AGG3. Evaluate performance metrics for AGG1 for optimization opportunities.<br><br>
+<b>Channel Cost Trends</b><br><br>
+- SMS stood out as the cost leader with 3.16, followed by WhatsApp at 0.88. RCS held a lower position with 0.47.<br>
+- Analyze usage patterns for SMS to assess its cost effectiveness. Consider strategies to increase efficiency for RCS based on current cost data.
+
+--- Dec 27, 2024 Financial Summary ---
+<b>Country Cost Trends</b><br><br>
+- The United Kingdom led in costs at £0.94, while the USA and India followed at £0.67 and £0.53 respectively. Review traffic from Nigeria, a top average cost breakdown country.<br>
+
+- Costs saw a significant day-on-day decrease of 11.99% but climbed steeply by 12.44% week-on-week. Escalate to risk team for further analysis.<br><br>
+
+<b>Aggregator Cost Trends</b><br><br>
+- AGG3 maintained the highest cost at £1.46, with AGG1 close behind at £1.41 and AGG2 at £1.10. Monitor AGG1 and AGG3 deltas for potential cost optimization opportunities.<br>
+
+- AGG1 experienced a cost decrease of 0.076, while AGG3 saw a sharper decline at 0.124. Explore potential reasons for these fluctuations and take necessary action.<br><br>
+
+<b>Channel Cost Trends</b><br><br>
+- SMS incurred the highest costs at £2.75, with WhatsApp at £0.81 and RCS at £0.41. Evaluate ROI for SMS channel and consider adjustments if necessary.<br>
+
+- The WhatsApp channel had the highest avg cost breakdown at £0.0035, closely followed by RCS at £0.0035. Analyze messaging strategies for both channels to optimize costs.
+
+--- Dec 28, 2024 Financial Summary ---
+<b>Country Cost Trends</b><br><br>
+- The United Kingdom held the top spot with a cost of £0.94, while costs in the USA climbed steeply to £0.65 and in India to £0.60. 
+<br>
+- To optimize costs, review messaging strategies in high-cost countries and consider targeted promotions to drive engagement.
+
+<br><br>
+
+<b>Aggregator Cost Trends</b><br><br>
+- AGG1 led with a cost of £1.49, followed by AGG3 at £1.46, and AGG2 at £1.26, showing significant variation in costs among aggregators.
+<br>
+- Analyze traffic distribution among top aggregators and consider renegotiating rates with higher-cost providers to reduce expenses.
+
+<br><br>
+
+<b>Channel Cost Trends</b><br><br>
+- SMS had the highest cost at £2.97, followed by WhatsApp at £0.77 and RCS at £0.46, indicating varying cost structures across channels.
+<br>
+- Evaluate ROI from each channel to allocate budget effectively and explore opportunities for cost-saving measures, such as channel diversification.
+
+--- Dec 29, 2024 Financial Summary ---
+<b>Country Cost Trends</b><br><br>
+- United Kingdom had the highest cost at £0.91, while Japan had the lowest cost at £0.58. <br>Consider analyzing demand in the UK market to justify the higher cost.
+- USA costs held flat at £0.66, showing stability in this market. <br>Monitor any shifts in cost to take proactive measures if needed.
+
+<br><br>
+
+<b>Aggregator Cost Trends</b><br><br>
+- AGG3 experienced a cost increase of 0.07, reaching £1.56, the highest among aggregators. <br>Review traffic from AGG3 to assess impact on overall costs.
+- AGG2 costs decreased by 0.05 to £1.20, indicating a shift in cost dynamics. <br>Escalate to risk team to identify reasons for this change.
+
+<br><br>
+
+<b>Channel Cost Trends</b><br><br>
+- SMS had the highest cost at £2.93, marking it as the most expensive channel. <br>Analyze ROI from SMS campaigns to optimize costs.
+- RCS costs were the lowest at £0.39, showing potential for cost-effective messaging. <br>Explore increasing promotion through RCS channels for cost savings.
+
+--- Dec 30, 2024 Financial Summary ---
+<b>Country Cost Trends</b><br><br>
+- Costs in the United Kingdom rose by 3.30% day-on-day, signaling a potential trend towards increased spending in this key market. <br>
+- Costs in India climbed steeply by 5.03% week-on-week, suggesting a need to investigate the factors driving this trend.
+
+<br><br>
+
+<b>Aggregator Cost Trends</b><br><br>
+- AGG3 maintained a flat cost trend, while AGG1 and AGG2 experienced marginal increases of 0.11% and 0.03% respectively. <br>
+- Consider a closer evaluation of AGG1 and AGG2 to identify potential cost-saving opportunities or operational efficiencies.
+
+<br><br>
+
+<b>Channel Cost Trends</b><br><br>
+- SMS continues to be the highest cost channel with a cost of 2.97 GBP, highlighting the need for optimization strategies in this area. <br>
+- RCS costs remained relatively low at 0.40 GBP, indicating a potential opportunity to leverage this channel for cost-effective communication strategies.
+
+--- Dec 31, 2024 Financial Summary ---
+<b>Country Cost Trends</b><br><br>
+- United Kingdom continues to lead in cost at 0.95 GBP, while USA and India follow closely at 0.62 GBP and 0.60 GBP respectively. <br>Consider analyzing the impact of these high-cost countries on overall spending.<br>
+- Day-on-day costs decreased by 2.64%, reflecting a positive trend, but week-on-week costs climbed steeply by 7.96%. <br>Review the factors contributing to the significant week-on-week increase and assess if adjustments are needed.
+
+<br><br>
+
+<b>Aggregator Cost Trends</b><br><br>
+- AGG1 remains the top aggregator by cost at 1.48 GBP, followed by AGG3 at 1.44 GBP and AGG2 at 1.24 GBP. <br>Consider evaluating the value provided by top aggregators to justify their costs.<br>
+- AGG2 saw a cost increase with a delta of 0.03, while AGG1 experienced a decrease with a delta of -0.02. <br>Analyze the performance differences between these two aggregators and consider adjusting allocations accordingly.
+
+<br><br>
+
+<b>Channel Cost Trends</b><br><br>
+- SMS continues to be the highest cost channel at 2.92 GBP, followed by WhatsApp at 0.83 GBP and RCS at 0.41 GBP. <br>Review the cost-efficiency of each channel and consider optimizing the channel mix.<br>
+- The highest average cost breakdown occurred with AGG1 in Palestine via RCS and AGG2 in India via WhatsApp. <br>Investigate specific reasons for the higher costs in these breakdowns and assess potential cost-saving measures.
+
+--- Jan 1, 2025 Financial Summary ---
+<b>Country Cost Trends</b><br><br>
+- United Kingdom has the highest cost at 1.35 GBP, showing a day-on-day increase of 37.85%. <br>
+- India's cost sits at 0.81 GBP, experiencing a slight 1.56% week-on-week rise. <br><br>
+
+<b>Aggregator Cost Trends</b><br><br>
+- AGG3 leads in cost at 2.20 GBP, with a significant cost increase of 0.53 GBP compared to other aggregators. <br>
+- AGG2 follows closely at 1.64 GBP, showing a steep increase of 0.32 GBP. <br><br>
+
+<b>Channel Cost Trends</b><br><br>
+- SMS is the most expensive channel at 3.99 GBP, indicating a major cost disparity compared to other channels. <br>
+- RCS stands at 0.56 GBP, showing a relatively lower cost but still significant compared to WhatsApp. 
+
+--- Jan 2, 2025 Financial Summary ---
+<b>Country Cost Trends</b><br><br>
+- USA cost decreased by 37.38% day-on-day, showing the steepest decline among all countries.<br>
+- United Kingdom maintained the highest cost leadership with a cost of 0.84, signaling stability in spending.<br><br><b>Aggregator Cost Trends</b><br><br>
+- AGG3 experienced a substantial 37.91% cost reduction compared to AGG1 and AGG2.<br>
+- AGG1 remained the top aggregator by cost, displaying resilience amidst market fluctuations.<br><br><b>Channel Cost Trends</b><br><br>
+- SMS continued to dominate with a cost of 2.43, indicating a strong cost position in the channel.<br>
+- RCS displayed a cost increase of 4.33% week-on-week, warranting a closer examination of usage patterns.
+
+--- Jan 3, 2025 Financial Summary ---
+<b>Country Cost Trends</b><br><br>
+- The United Kingdom led with a cost of 0.92 GBP, while Japan followed at 0.52 GBP and the USA at 0.65 GBP. <br>
+- Day-on-day costs climbed steeply by 9.12%, indicating a need to review traffic patterns and cost drivers. 
+
+<br><br>
+
+<b>Aggregator Cost Trends</b><br><br>
+- AGG3 had the highest cost at 1.52 GBP, followed by AGG1 at 1.27 GBP and AGG2 at 1.13 GBP. <br>
+- AGG2 and AGG3 saw cost deltas of 0.08 and 0.11 respectively, suggesting a need to analyze performance and ROI for these aggregators. 
+
+<br><br>
+
+<b>Channel Cost Trends</b><br><br>
+- SMS had the highest cost at 2.78 GBP, followed by WhatsApp at 0.74 GBP and RCS at 0.40 GBP. <br>
+- Week-on-week costs decreased by -1.55%, prompting a closer look at channel efficiency and optimization opportunities.
+
+--- Jan 4, 2025 Financial Summary ---
+<b>Country Cost Trends</b><br><br>
+- Highest cost in United Kingdom at 0.73 GBP, followed by USA at 0.52 GBP.<br>
+- India costs remained steady at 0.51 GBP.<br><br>
+<b>Aggregator Cost Trends</b><br><br>
+- AGG3 leads with cost of 1.28, AGG1 closely follows at 1.24.<br>
+- AGG2 costs fell sharply by 9.37% to 1.03.<br><br>
+<b>Channel Cost Trends</b><br><br>
+- SMS stands out with highest cost at 2.47, WhatsApp at 0.73.<br>
+- RCS costs at 0.34 GBP, showing slight decrease.
+
+--- Jan 5, 2025 Financial Summary ---
+<b>Country Cost Trends</b><br><br>
+- United Kingdom incurred the highest cost at 0.90 GBP, showing a moderate increase compared to the previous day. Consider reviewing the traffic patterns and exploring potential optimizations.<br>
+- USA's cost held flat at 0.59 GBP, maintaining stability. However, monitor closely for any unexpected shifts in the coming days.<br><br>
+<b>Aggregator Cost Trends</b><br><br>
+- AGG1 and AGG3 were the top aggregators by cost, with AGG1 costing 1.34 GBP. Consider analyzing the traffic distribution and performance for optimization opportunities.<br>
+- AGG2 cost climbed steeply to 1.09 GBP, indicating a significant increase. Escalate to risk team for further investigation and potential negotiation.<br><br>
+<b>Channel Cost Trends</b><br><br>
+- SMS recorded the highest cost at 2.69 GBP, showcasing a substantial expense. Review the ROI from SMS campaigns and evaluate alternatives for cost efficiency.<br>
+- WhatsApp maintained a cost of 0.76 GBP, demonstrating stability. Monitor performance metrics closely to ensure continued effectiveness in cost management.
+
+--- Jan 6, 2025 Financial Summary ---
+<b>Country Cost Trends</b><br><br>
+- The United Kingdom remains the highest cost leader at £0.83 per unit, while the USA saw a slight decrease to £0.59. <br> 
+- Japan's costs have held flat at £0.54 per unit, showing stability in this market. <br><br>
+
+<b>Aggregator Cost Trends</b><br><br>
+- AGG3 maintains the top position with a cost of £1.40, showing a slight increase. <br> 
+- AGG2 experienced a decrease to £1.07, while AGG1's cost remained steady at £1.21. <br><br>
+
+<b>Channel Cost Trends</b><br><br>
+- SMS continues to lead in costs at £2.57, maintaining a significant lead over other channels. <br> 
+- WhatsApp follows at £0.73, with RCS trailing at £0.38 per unit. 
+
+--- Jan 7, 2025 Financial Summary ---
+<b>Country Cost Trends</b><br><br>
+- United Kingdom led with a cost of 0.90 GBP, while USA followed closely at 0.59 GBP and India at 0.52 GBP. <br>
+- Costs climbed steeply compared to the previous day, indicating a 6.16% increase. <br><br><b>Aggregator Cost Trends</b><br><br>
+- AGG3 had the highest cost among aggregators at 1.46 GBP, with AGG1 at 1.39 GBP and AGG2 at 1.05 GBP. <br>
+- AGG1 experienced a notable increase in cost, with a delta of 0.16 GBP, while AGG3 saw a smaller increase of 0.05 GBP. <br><br><b>Channel Cost Trends</b><br><br>
+- SMS dominated with a cost of 2.81 GBP, followed by WhatsApp at 0.75 GBP and RCS at 0.34 GBP. <br>
+- Review traffic from SMS channel to identify potential cost-saving opportunities, given the significant cost difference compared to other channels. 
+
+--- Jan 8, 2025 Financial Summary ---
+<b>Country Cost Trends</b><br><br>
+- The United Kingdom maintained its lead in cost at £0.78, with the USA close behind at £0.67 and India at £0.55. <br>
+- Overall country costs decreased slightly by -0.57% day-on-day and significantly by -15.21% week-on-week. <br><br>
+
+<b>Aggregator Cost Trends</b><br><br>
+- AGG1 continued to dominate with a cost of £1.48, while AGG3 followed at £1.32 and AGG2 at £1.08. <br>
+- AGG1 and AGG2 saw a cost increase, with AGG1 climbing steeply by 0.06 compared to AGG2's 0.03. <br><br>
+
+<b>Channel Cost Trends</b><br><br>
+- SMS remained the most expensive channel at £2.71, with WhatsApp at £0.78 and RCS at £0.39. <br>
+- The average cost breakdown showed WhatsApp costs consistently high at £0.0035, indicating a need for cost optimization strategies. 
+
+--- Jan 9, 2025 Financial Summary ---
+<b>Country Cost Trends</b><br><br>
+- United Kingdom had a cost of 0.91 GBP, leading the countries in cost.
+<br>Next steps: Review the traffic sources from the United Kingdom for any anomalies.
+<br>
+- USA costs declined to 0.59 GBP, showing a significant day-on-day decrease of 5.49%.
+<br>Next steps: Monitor USA traffic closely for any further cost fluctuations.
+
+<br><br>
+
+<b>Aggregator Cost Trends</b><br><br>
+- AGG3 cost increased to 1.44 GBP, marking a steep climb compared to other aggregators.
+<br>Next steps: Investigate the reason behind the sudden cost rise for AGG3.
+<br>
+- AGG2 cost dropped to 0.95 GBP, with a notable decrease in cost compared to the previous week.
+<br>Next steps: Evaluate the performance of AGG2 to identify factors contributing to the cost reduction.
+
+<br><br>
+
+<b>Channel Cost Trends</b><br><br>
+- SMS remained the highest cost channel at 2.60 GBP, indicating a consistent cost leadership position.
+<br>Next steps: Analyze the traffic distribution across channels to optimize costs efficiently.
+<br>
+- WhatsApp costs held steady at 0.70 GBP, maintaining a stable cost trend amidst fluctuations in other channels.
+<br>Next steps: Consider leveraging the stable cost of WhatsApp for targeted campaigns.
+
+--- Jan 10, 2025 Financial Summary ---
+<b>Country Cost Trends</b><br><br>
+- The United Kingdom led in cost at 0.77 GBP, followed by Japan at 0.58 GBP and the USA at 0.55 GBP.<br>
+- Cost trended down week-on-week, with a notable 12.95% decrease across all countries.<br><br>
+
+<b>Aggregator Cost Trends</b><br><br>
+- AGG3 had the highest cost at 1.36 GBP, followed by AGG1 at 1.28 GBP and AGG2 at 1.05 GBP.<br>
+- AGG2 showed the steepest increase in cost, rising by 10.69% day-on-day.<br><br>
+
+<b>Channel Cost Trends</b><br><br>
+- SMS had the highest cost at 2.56 GBP, followed by WhatsApp at 0.78 GBP and RCS at 0.36 GBP.<br>
+- RCS had the lowest average cost breakdown, indicating potential cost-saving opportunities or optimizations.
+
+--- Jan 11, 2025 Financial Summary ---
+<b>Country Cost Trends</b><br><br>
+- The United Kingdom led in costs at 0.78 GBP, while Japan followed at 0.57 GBP and the USA at 0.51 GBP. Review the performance of campaigns targeting these countries.<br>
+- Costs decreased week-on-week by 10.52%. Monitor any potential impact on revenue and adjust budget allocation accordingly.
+
+<br><br>
+
+<b>Aggregator Cost Trends</b><br><br>
+- AGG3 had the highest cost at 1.38 GBP, followed by AGG1 at 1.29 GBP and AGG2 at 1.01 GBP. Consider optimizing spend on these aggregators based on ROI.<br>
+- AGG3 showed an increase in cost delta of 0.85%, while AGG1 had a smaller increase of 0.37%. Monitor performance closely and escalate any anomalies to the risk team.
+
+<br><br>
+
+<b>Channel Cost Trends</b><br><br>
+- SMS had the highest cost among channels at 2.65 GBP, followed by WhatsApp at 0.72 GBP and RCS at 0.31 GBP. Evaluate the efficacy of campaigns on SMS for potential cost savings.<br>
+- Identify opportunities to optimize spend on different channels based on cost and performance data. Review engagement metrics to ensure alignment with channel costs.
+
+--- Jan 12, 2025 Financial Summary ---
+<b>Country Cost Trends</b><br><br>
+- The United Kingdom continues to lead in cost at 0.81 GBP, while the USA follows closely at 0.54 GBP. Japan remains steady at 0.51 GBP.<br>
+- Costs decreased across all countries, with a sharp decline in the USA. Consider exploring the underlying factors driving this significant drop.<br><br>
+<b>Aggregator Cost Trends</b><br><br>
+- AGG3 remains the top spender at 1.29 GBP, followed by AGG1 at 1.25 GBP and AGG2 at 0.93 GBP. AGG1 shows the most significant cost decrease.<br>
+- AGG1 and AGG3 experienced cost reductions, warranting a review of their recent activities to determine the cause behind these changes.<br><br>
+<b>Channel Cost Trends</b><br><br>
+- SMS remains the most expensive channel at 2.46 GBP, with WhatsApp at 0.68 GBP and RCS at 0.34 GBP. SMS costs held firm while WhatsApp costs dipped.<br>
+- Investigate the cost disparity between channels and consider optimizing spend allocation to maximize ROI. Focus on SMS to ensure cost efficiency.
+
+--- Jan 13, 2025 Financial Summary ---
+<b>Country Cost Trends</b><br><br>
+- United Kingdom had the highest cost at £0.86, showing a day-on-day cost increase of 11.26%. <br>
+- Japan's cost of £0.54 remained relatively stable, with a week-on-week decrease of -7.84%. <br><br><b>Aggregator Cost Trends</b><br><br>
+- AGG3 had the highest cost at £1.46, with a cost increase of 0.134 from AGG2. <br>
+- AGG1 and AGG2 costs held steady at £1.34 and £1.07 respectively. <br><br><b>Channel Cost Trends</b><br><br>
+- SMS had the highest cost at £2.75, showing a steep day-on-day cost increase. <br>
+- WhatsApp and RCS costs were £0.73 and £0.40 respectively, maintaining relatively stable costs. 
+
+--- Jan 14, 2025 Financial Summary ---
+<b>Country Cost Trends</b><br><br>
+- United Kingdom had a cost of 0.87 GBP, leading all countries.<br>
+- India's cost was 0.56 GBP, holding steady compared to the previous period.<br><br>
+<b>Aggregator Cost Trends</b><br><br>
+- AGG1 and AGG3 tied as top aggregators with costs of 1.39, showing stability.<br>
+- AGG2 cost decreased by 0.009, suggesting potential efficiency improvements.<br><br>
+<b>Channel Cost Trends</b><br><br>
+- SMS had the highest cost at 2.67 GBP, indicating potential for cost optimization.<br>
+- RCS cost was 0.40 GBP, showing a slight decrease and warranting further monitoring.
+
+--- Jan 15, 2025 Financial Summary ---
+<b>Country Cost Trends</b><br><br>
+- Cost in the United Kingdom increased to 0.83, while the USA incurred a slight decrease to 0.61. India's cost remained stable at 0.53. <br>Next steps: Analyze usage patterns in the UK to understand the cost increase.
+
+<b>Aggregator Cost Trends</b><br><br>
+- AGG3 experienced a cost increase to 1.41, while AGG1 held steady at 1.25. AGG2's cost decreased to 0.96. <br>Next steps: Investigate reasons for AGG3's cost spike.
+
+<b>Channel Cost Trends</b><br><br>
+- SMS had the highest cost at 2.53, WhatsApp remained at 0.72, and RCS saw a slight increase to 0.36. <br>Next steps: Review performance metrics for SMS to assess cost-effectiveness.
+
