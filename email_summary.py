@@ -7,6 +7,8 @@ from email.mime.multipart import MIMEMultipart
 import pandas as pd
 from datetime import datetime, timedelta
 import re
+import matplotlib.pyplot as plt
+from email.mime.image import MIMEImage
 
 # Load env
 load_dotenv()
@@ -204,12 +206,56 @@ for today in pd.date_range(start=start_date, end=end_date):
     </html>
     """
 
-    # Setup and send email
-    msg = MIMEMultipart("alternative")
+    # --- Generate fraud/message charts ---
+    weekly = df[(df["date"] >= week_start) & (df["date"] <= today)]
+
+    plt.figure(figsize=(6, 3))
+    weekly.groupby("date")["is_fraud"].sum().plot(title="Fraud Cases - Last 7 Days", marker="o")
+    plt.xticks(rotation=45)
+    plt.tight_layout()
+    plt.savefig("fraud_week.png")
+    plt.close()
+
+    plt.figure(figsize=(6, 3))
+    weekly.groupby("date").size().plot(title="Message Volume - Last 7 Days", marker="o")
+    plt.xticks(rotation=45)
+    plt.tight_layout()
+    plt.savefig("volume_week.png")
+    plt.close()
+
+    fraud_channels = today_data[today_data["is_fraud"] == 1]["channel_type"].value_counts()
+    plt.figure(figsize=(4, 4))
+    fraud_channels.plot(kind="pie", autopct="%1.1f%%", title="Fraud by Channel", ylabel="")
+    plt.tight_layout()
+    plt.savefig("fraud_pie.png")
+    plt.close()
+
+    # --- Build fraud email with embedded images ---
+    msg = MIMEMultipart("related")
     msg["From"] = EMAIL
     msg["To"] = "archit.sachdeva007@gmail.com"
     msg["Subject"] = f"Fraud Analyst Daily Report — {date_str}"
-    msg.attach(MIMEText(html, "html"))
+    alt = MIMEMultipart("alternative")
+    msg.attach(alt)
+
+    html_with_img = html.replace(
+        "</body>",
+        """
+        <p><b>📈 Visuals:</b></p>
+        <img src="cid:fraud_week"><br>
+        <img src="cid:volume_week"><br>
+        <img src="cid:fraud_pie"><br>
+        </body>
+        """
+    )
+    alt.attach(MIMEText(html_with_img, "html"))
+
+    for file, cid in [("fraud_week.png", "fraud_week"), ("volume_week.png", "volume_week"), ("fraud_pie.png", "fraud_pie")]:
+        with open(file, "rb") as f:
+            img = MIMEImage(f.read())
+            img.add_header("Content-ID", f"<{cid}>")
+            msg.attach(img)
+
 
     with open("email_summaries.txt", "a", encoding="utf-8") as f:
         f.write(f"--- {date_str} Fraud Summary ---\n")
@@ -234,11 +280,53 @@ for today in pd.date_range(start=start_date, end=end_date):
     </html>
     """
 
-    cost_msg = MIMEMultipart("alternative")
+    # --- Generate cost-related charts ---
+    plt.figure(figsize=(6, 3))
+    weekly.groupby("date")["total_cost_gbp"].sum().plot(title="Total Cost - Last 7 Days", marker="o")
+    plt.xticks(rotation=45)
+    plt.tight_layout()
+    plt.savefig("cost_week.png")
+    plt.close()
+
+    plt.figure(figsize=(6, 3))
+    weekly.groupby("date").apply(lambda d: d["total_cost_gbp"].sum() / max(len(d), 1)).plot(title="Avg Cost per Message", marker="o")
+    plt.xticks(rotation=45)
+    plt.tight_layout()
+    plt.savefig("avg_cost_week.png")
+    plt.close()
+
+    cost_by_country = today_data.groupby("destination_country")["total_cost_gbp"].sum()
+    plt.figure(figsize=(4, 4))
+    cost_by_country[cost_by_country > 0].plot(kind="pie", autopct="%1.1f%%", title="Cost by Country", ylabel="")
+    plt.tight_layout()
+    plt.savefig("cost_pie.png")
+    plt.close()
+
+    # --- Build cost email with embedded images ---
+    cost_msg = MIMEMultipart("related")
     cost_msg["From"] = EMAIL
     cost_msg["To"] = "archit.sachdeva007@gmail.com"
     cost_msg["Subject"] = f"Financial Daily Report — {date_str}"
-    cost_msg.attach(MIMEText(cost_html, "html"))
+    cost_alt = MIMEMultipart("alternative")
+    cost_msg.attach(cost_alt)
+
+    cost_html_with_img = cost_html.replace(
+        "</body>",
+        """
+        <p><b>📊 Visuals:</b></p>
+        <img src="cid:cost_week"><br>
+        <img src="cid:avg_cost_week"><br>
+        <img src="cid:cost_pie"><br>
+        </body>
+        """
+    )
+    cost_alt.attach(MIMEText(cost_html_with_img, "html"))
+
+    for file, cid in [("cost_week.png", "cost_week"), ("avg_cost_week.png", "avg_cost_week"), ("cost_pie.png", "cost_pie")]:
+        with open(file, "rb") as f:
+            img = MIMEImage(f.read())
+            img.add_header("Content-ID", f"<{cid}>")
+            cost_msg.attach(img)
 
     with smtplib.SMTP_SSL("smtp.gmail.com", 465) as server:
         server.login(EMAIL, PASSWORD)

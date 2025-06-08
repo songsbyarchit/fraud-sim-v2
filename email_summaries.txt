@@ -1927,3 +1927,509 @@
 - SMS remains the top channel with 27 volumes, while WhatsApp and RCS held steady at 4 and 2 respectively.<br>
   Monitor SMS closely for any further increase in volumes and review effectiveness of fraud prevention measures for WhatsApp and RCS.
 
+--- Dec 15, 2024 Fraud Summary ---
+<b>Country Trends:</b><br><br>
+- Fraudulent activity in the United Kingdom increased by 2.5% compared to the previous day.<br>
+- Fraudulent activity in Brazil held steady compared to the previous week.<br><br><b>Aggregator Trends:</b><br><br>
+- AGG1 was the most flagged aggregator with 16 cases, showing a 4.88% decrease in fraud compared to the previous week.<br>
+- No significant changes in fraud activity among other aggregators.<br><br><b>Channel Trends:</b><br><br>
+- SMS remains the top channel with 32 cases, showing a 4.58% increase in volume compared to the previous day.<br>
+- WhatsApp and RCS channels both experienced a decrease in volume compared to the previous day.
+
+--- Dec 16, 2024 Fraud Summary ---
+<b>Country Trends</b><br><br>
+- USA and Germany continued to dominate as top fraud countries, showing no significant change in fraud rates.
+<br>
+- The week-on-week fraud percentage decreased by 6.91%, indicating a favorable trend in fraud prevention efforts in these countries.
+
+<br><br>
+
+<b>Aggregator Trends</b><br><br>
+- AGG3 stood out as the most flagged aggregator with 13 cases, signaling a potential need for a deeper investigation into their operations.
+<br>
+- With the decrease in fraud rates, it might be beneficial to review the recent activities and transactions associated with AGG3 for any anomalies.
+
+<br><br>
+
+<b>Channel Trends</b><br><br>
+- SMS remained the top channel for fraudulent activities with the highest volume of 16 cases.
+<br>
+- WhatsApp and RCS held steady at 8 and 1 cases respectively, indicating a consistent pattern of fraud distribution across different channels.
+
+--- Dec 17, 2024 Fraud Summary ---
+<b>Country Trends</b><br><br>
+- United Kingdom experienced a significant 36.0% day-on-day fraud increase, while Germany saw a stable 2.17% increase in volume. <br>
+- Week-on-week fraud decreased by -2.47% in both top countries, suggesting a positive trend. <br><br>
+
+<b>Aggregator Trends</b><br><br>
+- AGG3 emerged as the most flagged aggregator with 16 cases, warranting a closer look into its operations. <br>
+- Review traffic from AGG3 to identify patterns or anomalies contributing to the high number of fraud cases. <br><br>
+
+<b>Channel Trends</b><br><br>
+- SMS remains the top channel with a volume of 22, indicating a consistent lead in usage compared to other channels. <br>
+- Explore reasons behind the lower volumes in WhatsApp (7) and RCS (5) to optimize channel strategies and possibly detect attempts at fraud. 
+
+--- Dec 18, 2024 Fraud Summary ---
+<b>Country Trends</b><br><br>
+- Fraudulent activity in the <b>United Kingdom</b><br><br> increased by 8.82% day-on-day, while <b>India</b><br><br> saw a 4.68% rise week-on-week.<br>
+
+<b>Aggregator Trends</b><br><br>
+- <b>AGG1</b><br><br> had the highest number of fraud cases at 13, indicating a potential issue with this aggregator. Review transactions and consider escalating to the risk team.<br>
+
+<b>Channel Trends</b><br><br>
+- SMS remains the top channel with a volume of 22, followed by WhatsApp at 10 and RCS at 5. Monitor SMS transactions closely for any abnormal activity.
+
+--- Dec 15, 2024 Fraud Summary ---
+<b>Country Trends</b><br><br>
+- Fraud rate in United Kingdom increased by 2.5% day-on-day to 3.80%.<br>
+- Brazil saw a 4.58% rise in volume compared to the previous day, reaching 87.20 transactions.<br><br>
+
+<b>Aggregator Trends</b><br><br>
+- AGG1 remains the top flagged aggregator, reporting 16 fraud cases.<br>
+- Escalate to risk team to investigate patterns and potential vulnerabilities with AGG1.<br><br>
+
+<b>Channel Trends</b><br><br>
+- SMS maintained its position as the top channel with 32 transactions.<br>
+- WhatsApp and RCS volumes held steady at 7 and 2 respectively, indicating potential stability in these channels.
+
+--- Dec 16, 2024 Fraud Summary ---
+<b>Country Trends</b><br><br>
+- Fraud rate in USA decreased by 39.02% compared to the previous day. This aligns with the overall downward trend observed in fraud metrics.<br>
+
+- Germany experienced a 1.03% increase in transaction volume compared to the previous day, indicating potential growth in this market. Monitor for any corresponding changes in fraud rates.<br><br>
+
+<b>Aggregator Trends</b><br><br>
+- AGG3 was the most flagged aggregator, accounting for 13 fraud cases. Review transactions from this aggregator for any patterns or anomalies that may indicate fraudulent activity.<br>
+
+- Despite the high number of flagged cases, the fraud % change week-on-week decreased by 6.91%. Monitor this aggregator closely to ensure fraudulent activity is mitigated.<br><br>
+
+<b>Channel Trends</b><br><br>
+- SMS was the top channel with a volume of 16 transactions. Evaluate the security measures in place for SMS transactions to prevent potential fraud attempts.<br>
+
+- WhatsApp and RCS had lower transaction volumes of 8 and 1 respectively. Assess if there are any vulnerabilities in these channels that could be exploited by fraudsters.
+
+--- Dec 17, 2024 Fraud Summary ---
+<b>Country Trends</b><br><br>
+- Fraudulent activity in the United Kingdom increased by 36.0% compared to the previous day.<br>
+- Germany saw a 2.17% rise in fraud volume from the day before.
+
+<br><br>
+
+<b>Aggregator Trends</b><br><br>
+- AGG3 had the highest number of flagged cases, with 16 instances of fraud.<br>
+- Consider a detailed review of transactions processed through AGG3 to identify any patterns or abnormalities.
+
+<br><br>
+
+<b>Channel Trends</b><br><br>
+- SMS remains the top channel with a volume of 22 transactions.<br>
+- WhatsApp and RCS held steady at 7 and 5 transactions respectively compared to the previous day.
+
+--- Dec 18, 2024 Fraud Summary ---
+<b>Country Trends</b><br><br>
+- Fraudulent activity in the United Kingdom increased by 8.82% compared to the previous day.<br>
+- India experienced a 4.68% increase in fraud compared to the previous week.
+
+<br><br>
+
+<b>Aggregator Trends</b><br><br>
+- AGG1 had the highest number of fraud cases with 13 instances, signaling a potential issue with this aggregator.<br>
+- Monitor closely for any further suspicious activity from AGG1 and consider escalating to the risk team if necessary.
+
+<br><br>
+
+<b>Channel Trends</b><br><br>
+- SMS continues to hold the top position in volume with 22 transactions, indicating stability in this channel.<br>
+- WhatsApp experienced a 2.42% decrease in volume compared to the previous day, suggesting a potential shift in user behavior. Review traffic from WhatsApp to understand the decline.
+
+--- Dec 19, 2024 Fraud Summary ---
+<b>Country Trends</b><br><br>
+- Fraudulent activity in Japan increased by 18.92% while the USA experienced a 16.37% rise in fraud cases.<br>
+- To mitigate risks, review recent transactions from Japan and the USA for any suspicious patterns and escalate to the risk team if necessary.
+
+<br><br>
+
+<b>Aggregator Trends</b><br><br>
+- AGG3 is the most flagged aggregator with 23 cases, showing a 17.97% increase week-on-week.<br>
+- Investigate transactions processed by AGG3 to identify any irregularities and consider implementing additional verification measures for this aggregator.
+
+<br><br>
+
+<b>Channel Trends</b><br><br>
+- SMS remains the top channel with 27 cases, followed by WhatsApp with 9 and RCS with 8.<br>
+- Analyze transactions through SMS in detail to understand the sudden surge in fraudulent activity and consider implementing stronger security measures for this channel.
+
+--- Dec 20, 2024 Fraud Summary ---
+**Country Trends**
+- Fraudulent activity decreased significantly in Japan with a day-on-day fraud % change of -29.55%. This could indicate successful fraud prevention measures.<br>
+- India also saw a decrease in fraud with a day-on-day volume % change of -5.45%. Monitoring for any new emerging trends is recommended.
+
+**Aggregator Trends**
+- AGG3 stands out as the most flagged aggregator with 13 cases. Conduct a thorough investigation into the activities of this aggregator to identify root causes and patterns.<br>
+- Review the performance and practices of other aggregators to ensure they are compliant with fraud prevention protocols.
+
+**Channel Trends**
+- SMS continues to be the top channel with a volume of 21. Monitoring the effectiveness of fraud prevention measures specific to SMS communication is crucial.<br>
+- WhatsApp and RCS volumes remained relatively low at 7 and 3 respectively. Explore potential reasons for the lower volumes and assess any associated risks.
+
+--- Dec 21, 2024 Fraud Summary ---
+<b>Country Trends</b><br><br>
+- The United Kingdom saw a significant 25.81% increase in fraud rates compared to the previous day.<br>
+- Fraud in the USA held steady with no significant day-on-day change.<br><br>
+
+<b>Aggregator Trends</b><br><br>
+- AGG3 maintained its position as the most flagged aggregator, with 21 cases of fraud.<br>
+- Other aggregators showed no significant changes in fraud cases.<br><br>
+
+<b>Channel Trends</b><br><br>
+- SMS continues to be the top channel with 27 cases of fraud, showing a 2.58% increase in volume compared to the previous day.<br>
+- RCS and WhatsApp both held steady with 6 cases each, indicating stable fraud activity.
+
+--- Dec 22, 2024 Fraud Summary ---
+<b>Country Trends</b><br><br>
+- Fraudulent activity in USA increased by 15.38% from the previous day, while United Kingdom saw a 3.21% increase in volume.<br>
+<br>
+<b>Aggregator Trends</b><br><br>
+- AGG3 had the highest number of flagged cases at 23, indicating a potential risk factor that warrants further investigation.<br>
+<br>
+<b>Channel Trends</b><br><br>
+- SMS maintained its position as the top channel with 25 cases, followed by WhatsApp with 14 cases and RCS with 6 cases.
+
+--- Dec 23, 2024 Fraud Summary ---
+<b>Country Trends</b><br><br>
+- United Kingdom and USA continued to dominate, with no significant changes in fraud levels. <br>
+- Monitor closely for any sudden increases in fraud activity in these key markets.
+
+<br><br>
+
+<b>Aggregator Trends</b><br><br>
+- AGG3 remained the top flagged aggregator, showing a slight decrease in fraud cases compared to the previous day. <br>
+- Investigate potential reasons behind the fluctuations in fraud cases for AGG3 and evaluate its risk profile.
+
+<br><br>
+
+<b>Channel Trends</b><br><br>
+- SMS maintained its position as the top channel in terms of volume, while WhatsApp and RCS saw minimal activity. <br>
+- Review SMS traffic patterns to identify any anomalies that may indicate fraudulent activity.
+
+--- Dec 24, 2024 Fraud Summary ---
+<b>Country Trends</b><br><br>
+- Fraudulent activity decreased by 15.38% compared to the previous day, with top fraud countries being India and Japan.<br>
+- Volume also decreased by 15.76%, indicating a decrease in overall activity. Review recent traffic from India and Japan for any anomalies.<br><br>
+
+<b>Aggregator Trends</b><br><br>
+- AGG3 had the highest number of flagged cases with 14 instances, pointing to potential issues with this aggregator. Escalate to the risk team for further investigation.<br>
+- Monitor closely for any further flagged cases and investigate any potential patterns or anomalies with AGG3's activity.<br><br>
+
+<b>Channel Trends</b><br><br>
+- The SMS channel had the highest volume with 24 transactions, indicating a preference for this channel. Review SMS transactions for any suspicious behavior.<br>
+- Monitor the RCS and WhatsApp channels for any changes in volume or potential fraud activity. Keep an eye out for any sudden spikes or drops in usage.
+
+--- Dec 25, 2024 Fraud Summary ---
+<b>Country Trends</b><br><br>
+- Fraudulent activity in the United Kingdom surged with a 357.58% day-on-day increase, indicating a critical need for immediate investigation and heightened monitoring.<br>
+- Japan also experienced a significant 55.28% week-on-week increase in fraud, signaling a potential emerging trend that warrants further scrutiny.<br><br>
+
+<b>Aggregator Trends</b><br><br>
+- AGG3 emerged as the most flagged aggregator with 78 cases, showcasing a concerning spike in fraudulent activities associated with this entity. Immediate review and analysis of transactions through AGG3 is recommended.<br>
+- Given the notable 57.24% day-on-day increase in volume, monitoring and assessing all aggregator activities to identify any irregular patterns or inconsistencies is essential for fraud prevention.<br><br>
+
+<b>Channel Trends</b><br><br>
+- SMS remains the top channel with 112 cases, highlighting its continued vulnerability to fraudulent activities. Strengthening security measures and implementing additional verification steps for SMS transactions is advised.<br>
+- Despite lower volumes, both WhatsApp and RCS experienced increases in fraudulent activity. Proactive monitoring and analysis of these channels are essential to prevent potential escalation in fraudulent activities.
+
+--- Dec 26, 2024 Fraud Summary ---
+<b>Country Trends</b><br><br>
+- Fraud rate in United Kingdom decreased by 67.55% compared to previous day.<br>
+- USA saw a 51.17% increase in fraud compared to the previous week.
+
+<br><br>
+
+<b>Aggregator Trends</b><br><br>
+- AGG3 had the highest number of fraud cases with 23 instances.<br>
+- Review traffic from AGG3 to assess potential vulnerabilities and patterns leading to fraud.
+
+<br><br>
+
+<b>Channel Trends</b><br><br>
+- SMS had the highest volume with 33 cases.<br>
+- Escalate to risk team for further investigation into fraudulent activities via WhatsApp and RCS channels.
+
+--- Dec 27, 2024 Fraud Summary ---
+<b>Country Trends</b><br><br>
+- Fraud % change in Germany eased off to -20.00% while the UK saw a week-on-week increase of 10.00%.<br>
+- Explore potential reasons behind the increase in fraud in the UK and consider implementing additional verification measures.
+
+<b>Aggregator Trends</b><br><br>
+- AGG3 remained the most flagged aggregator with 18 cases, showing no significant change from the previous day.<br>
+- Review recent transactions through AGG3 and collaborate with the aggregator to investigate potential vulnerabilities.
+
+<b>Channel Trends</b><br><br>
+- SMS dominated with 23 cases, followed by WhatsApp with 7 and RCS with 6, with a collective decrease in volume by 12.24% from the previous day.<br>
+- Analyze recent transactions on SMS and investigate the reason behind the decrease in volume across channels.
+
+--- Dec 28, 2024 Fraud Summary ---
+<b>Country Trends</b><br><br>
+- Fraudulent activity in the United Kingdom increased by 2.4% day-on-day.
+<br>
+- Brazil saw a notable 3.2% decrease in fraud compared to the previous day.
+<br><br>
+<b>Aggregator Trends</b><br><br>
+- AGG1, the most flagged aggregator, experienced a 4-case decrease in fraud incidents day-on-day.
+<br>
+- Consider reviewing the activities of AGG1 in depth to identify any patterns or anomalies.<br><br>
+<b>Channel Trends</b><br><br>
+- SMS remains the dominant channel with 30 transactions, showing a 4.2% increase from the previous day.
+<br>
+- WhatsApp and RCS volumes held steady, with 5 and 2 transactions respectively.
+
+
+--- Dec 29, 2024 Fraud Summary ---
+<b>Country Trends</b><br><br>
+- Fraudulent activity in the United Kingdom decreased by 10.81% compared to the previous day.<br>
+- USA maintained a steady fraud rate with no significant change in fraud levels.<br><br><b>Aggregator Trends</b><br><br>
+- AGG3 emerged as the most flagged aggregator with 13 cases, indicating a potential vulnerability.<br>
+- Other aggregators showed no significant deviation in fraudulent activity compared to the day before.<br><br><b>Channel Trends</b><br><br>
+- SMS remained the top channel with a volume of 24, showing consistent usage compared to previous days.<br>
+- WhatsApp and RCS held steady with volumes of 6 and 3 respectively, suggesting no significant changes in usage patterns.
+
+--- Dec 30, 2024 Fraud Summary ---
+<b>Country Trends</b><br><br>
+- Fraudulent activity in the USA increased by 18.18% from the previous day, while the United Kingdom saw a 40.52% week-on-week increase in fraud cases.<br>
+
+<b>Aggregator Trends</b><br><br>
+- AGG3 had the highest number of fraud cases with 17 instances, indicating a potential need for further investigation into their practices.<br><br>
+
+<b>Channel Trends</b><br><br>
+- SMS continues to be the top channel with 27 cases, followed by WhatsApp with 10 cases and RCS with 2 cases. Consider monitoring SMS closely for any unusual patterns or activities.
+
+--- Dec 31, 2024 Fraud Summary ---
+<b>Country Trends</b><br><br>
+- Fraudulent activity decreased by 12.82% day-on-day, with the top countries being United Kingdom and India.<br>
+- To maintain the decline in fraud, focus on monitoring activities in the United Kingdom and India closely for any unusual patterns. 
+
+<br><br>
+
+<b>Aggregator Trends</b><br><br>
+- AGG3 was the most flagged aggregator with 14 cases, indicating a potential area of concern.<br>
+- Investigate the root cause of fraud cases associated with AGG3 and consider implementing stricter monitoring measures.
+
+<br><br>
+
+<b>Channel Trends</b><br><br>
+- Fraudulent activity increased by 41.42% week-on-week, with SMS being the top channel with 25 cases.<br>
+- Review traffic from SMS channel to identify specific vulnerabilities and determine necessary actions to address the increase in fraudulent activity.
+
+--- Jan 1, 2025 Fraud Summary ---
+<b>Country Trends</b><br><br>
+- United Kingdom saw a day-on-day fraud % change of 288.24%, while USA experienced a 40.95% increase in volume.<br>
+  Review recent activity in United Kingdom for potential fraud patterns and investigate the volume spike in USA.
+
+<br><br>
+
+<b>Aggregator Trends</b><br><br>
+- AGG3 had the most flagged cases with 67 instances.<br>
+  Escalate AGG3's activity to the risk team for further investigation and monitoring.
+
+<br><br>
+
+<b>Channel Trends</b><br><br>
+- SMS had the highest volume with 97 cases, followed by WhatsApp with 23 and RCS with 12.<br>
+  Conduct a deep dive into SMS transactions to ensure no fraudulent patterns are emerging.
+
+--- Jan 2, 2025 Fraud Summary ---
+<b>Country Trends</b><br><br>
+- United Kingdom and Germany remained the top countries for fraud on Jan 2, 2025.
+<br>
+Next steps: Review recent activity in these countries to identify any emerging patterns or trends.<br>
+
+<b>Aggregator Trends</b><br><br>
+- AGG3 was the most flagged aggregator on Jan 2, 2025, with 14 cases.
+<br>
+Next steps: Conduct a deep dive into AGG3's traffic to pinpoint specific sources of fraudulent activity.<br>
+
+<b>Channel Trends</b><br><br>
+- SMS dominated channel volumes on Jan 2, 2025, with 24 cases.
+<br>
+Next steps: Monitor SMS traffic closely for any anomalies or suspicious behavior that may indicate potential fraud.
+
+--- Jan 3, 2025 Fraud Summary ---
+<b>Country Trends</b><br><br>
+- United Kingdom and Germany were the top countries for fraud on Jan 3, 2025.
+<br>
+- Day-on-day fraud decreased by 8.33%, suggesting a positive trend. Review recent traffic from these countries for any anomalies.
+ 
+<br><br>
+
+<b>Aggregator Trends</b><br><br>
+- AGG1 was the most flagged aggregator with 13 cases on Jan 3, 2025.
+<br>
+- Consider escalating findings to the risk team for further investigation and potential action against AGG1.
+ 
+<br><br>
+
+<b>Channel Trends</b><br><br>
+- SMS had the highest volume with 28 cases, followed by WhatsApp with 4 and RCS with 1 on Jan 3, 2025.
+<br>
+- Given the concentration in SMS, review traffic from this channel more closely for any signs of fraudulent activity.
+
+--- Jan 4, 2025 Fraud Summary ---
+<b>Country Trends</b><br><br>
+- Fraud % in USA decreased by 18.62% compared to last week.<br>
+- Brazil saw a slight increase in fraud % by 2.34% day-on-day.<br><br>
+
+<b>Aggregator Trends</b><br><br>
+- AGG3 remains the most flagged aggregator with 15 cases.<br>
+- AGG2 experienced a 20% decrease in fraud cases day-on-day.<br><br>
+
+<b>Channel Trends</b><br><br>
+- SMS continues to dominate with 16 cases, showing stability in volume.<br>
+- WhatsApp experienced a 25% decrease in volume day-on-day, worth investigating further.
+
+--- Jan 5, 2025 Fraud Summary ---
+<b>Country Trends</b><br><br>
+- Fraudulent activity in the USA increased by 7.14% compared to the previous day, while in India it increased by 7.04%.<br>
+Suggested action: Review recent transactions from these countries for potential fraud patterns.<br><br>
+
+<b>Aggregator Trends</b><br><br>
+- AGG1 had the highest number of flagged cases with 15 instances.<br>
+Suggested action: Investigate the transactions processed by AGG1 to identify potential vulnerabilities.<br><br>
+
+<b>Channel Trends</b><br><br>
+- SMS had the highest volume with 23 transactions, followed by WhatsApp with 6, and RCS with 1.<br>
+Suggested action: Monitor SMS transactions closely for any unusual activity or spikes in fraud rates.
+
+--- Jan 6, 2025 Fraud Summary ---
+- <b>Country Trends</b><br><br>
+   - United Kingdom and USA continue to be the top countries for fraud, maintaining stability in fraud rates compared to the previous week.<br>
+   - Consider conducting a deep dive into transactions from United Kingdom and USA to identify any patterns or anomalies.
+
+<br><br>
+
+- <b>Aggregator Trends</b><br><br>
+   - AGG3 maintains its position as the most flagged aggregator with 18 cases, showing no significant change in fraud activity.<br>
+   - Review transactions processed through AGG3 for any suspicious activity or common characteristics.
+
+<br><br>
+
+- <b>Channel Trends</b><br><br>
+   - SMS remains the top channel in terms of volume with 23 transactions, while WhatsApp and RCS show minimal activity with 4 and 3 transactions respectively.<br>
+   - Focus on monitoring SMS transactions closely for any signs of fraudulent behavior and review security measures for this channel.
+
+--- Jan 7, 2025 Fraud Summary ---
+<b>Country Trends</b><br><br>
+- United Kingdom saw a 4.26% decrease in fraud compared to the previous day.<br>
+- Japan experienced a 10% increase in volume compared to the previous day.<br><br>
+<b>Aggregator Trends</b><br><br>
+- AGG3 had a notable increase in flagged cases, with 15 instances identified.<br>
+- Consider conducting a deeper investigation into the activities of AGG3 to understand the pattern of fraudulent activities.<br><br>
+<b>Channel Trends</b><br><br>
+- SMS had the highest volume with 17 cases, showing a strong presence in fraudulent activities.<br>
+- Review the traffic coming from SMS and implement additional security measures to mitigate potential risks.
+
+--- Jan 8, 2025 Fraud Summary ---
+<b>Country Trends</b><br><br>
+- Fraudulent activity in United Kingdom increased by 39.13%, while in Germany it decreased by 41.11% week-on-week.<br>
+- Recommended action: Review recent transactions from United Kingdom to identify potential fraudulent patterns.
+
+<br><br>
+
+<b>Aggregator Trends</b><br><br>
+- AGG3 was the most flagged aggregator with 14 cases, signaling a potential issue.<br>
+- Recommended action: Investigate the transactions processed through AGG3 to root out any potential fraudulent activity.
+
+<br><br>
+
+<b>Channel Trends</b><br><br>
+- SMS had the highest volume with 22 cases, while WhatsApp and RCS had 7 and 3 cases respectively. <br>
+- Recommended action: Monitor SMS transactions closely to ensure no further increase in fraudulent activity.
+
+--- Jan 9, 2025 Fraud Summary ---
+<b>Country Trends</b><br><br>
+- United Kingdom and USA continue to dominate as top fraud countries, showing stability in fraud rates.<br>
+- Recommend focusing on implementing additional fraud prevention measures in these high-risk countries.
+
+<br><br>
+
+<b>Aggregator Trends</b><br><br>
+- AGG3 stands out as the most flagged aggregator with 21 fraud cases, indicating a sharp spike in fraudulent activity.<br>
+- Suggest investigating the root cause of fraud from AGG3 and consider suspending transactions from this aggregator temporarily.
+
+<br><br>
+
+<b>Channel Trends</b><br><br>
+- SMS remains the top channel with the highest volume, while WhatsApp and RCS show lower activity.<br>
+- Consider monitoring SMS traffic closely for any unusual patterns and review security measures for all channels to minimize fraud risk.
+
+--- Jan 10, 2025 Fraud Summary ---
+<b>Country Trends</b><br><br>
+- Fraudulent activity in the United Kingdom decreased by 2.78% compared to the previous day, holding steady as a top country.<br>
+- Fraudulent activity in India saw a sharp decline of 37.21% compared to the previous week, suggesting potential improvement in fraud prevention measures.<br><br>
+
+<b>Aggregator Trends</b><br><br>
+- AGG3 remains the most flagged aggregator, with 21 cases of fraudulent activity reported on Jan 10, 2025, warranting a review of the aggregator's practices.<br>
+- Consider escalating detection mechanisms for AGG3 to proactively prevent future fraud incidents.<br><br>
+
+<b>Channel Trends</b><br><br>
+- SMS continues to be the top channel with a volume of 29, while WhatsApp and RCS are considerably lower at 7 and 1 respectively.<br>
+- Monitor SMS channel closely for any abnormal spikes in activity, and consider implementing additional security measures to prevent potential fraud. 
+
+--- Jan 11, 2025 Fraud Summary ---
+<b>Country Trends</b><br><br>
+- Fraudulent activity increased by 10.81% from the previous day, with top countries being Japan and USA.<br>
+- Week-on-week fraud % change decreased by a significant 31.64%, indicating potential stabilization in fraud trends.<br><br>
+
+<b>Aggregator Trends</b><br><br>
+- AGG3 has the highest number of fraud cases at 26, warranting a deep dive into their traffic and transactions.<br>
+- Day-on-day volume % change remained relatively stable at 0.18%, suggesting consistent activity across aggregators.<br><br>
+
+<b>Channel Trends</b><br><br>
+- SMS continues to be the dominant channel with 30 volumes, signaling the need for enhanced monitoring and risk mitigation strategies specific to this channel.<br>
+- WhatsApp and RCS show lower volumes at 9 and 2 respectively, potentially indicating lower fraud risk but still requiring monitoring for any anomalies.
+
+--- Jan 12, 2025 Fraud Summary ---
+<b>Country Trends</b><br><br>
+- Fraud % decreased by 17.07% and volume % decreased by 5.69% compared to the previous day.<br>
+- The top countries for fraud are United Kingdom and India.<br><br>
+
+<b>Aggregator Trends</b><br><br>
+- AGG3 is the most flagged aggregator with 17 cases.<br>
+- Consider reviewing transactions through AGG3 for potential fraudulent activity and escalating to the risk team if necessary.<br><br>
+
+<b>Channel Trends</b><br><br>
+- SMS has the highest volume with 27 transactions, followed by RCS with 5 transactions and WhatsApp with 2 transactions.<br>
+- Monitor SMS transactions closely for any unusual activity and investigate further if needed. Consider enhancing monitoring for RCS as well.
+
+--- Jan 13, 2025 Fraud Summary ---
+<b>Country Trends</b><br><br>
+- The United States and the United Kingdom continue to lead in fraud activity, with a combined total of 27 cases.<br>
+- Fraud levels decreased by 28.48% compared to the previous week, indicating a positive trend in both countries.<br><br>
+
+<b>Aggregator Trends</b><br><br>
+- AGG3 stands out as the most flagged aggregator with 19 cases, suggesting a need for closer monitoring and investigation into their operations.<br>
+- Consider implementing additional fraud detection measures specific to AGG3 to mitigate risks and prevent further incidents.<br><br>
+
+<b>Channel Trends</b><br><br>
+- SMS remains the primary channel for fraudulent activities with 18 cases reported, indicating a significant share of fraudulent traffic.<br>
+- Review SMS traffic patterns and user behavior for abnormalities and consider implementing stricter verification processes to curb fraud.
+
+--- Jan 14, 2025 Fraud Summary ---
+<b>Country Trends</b><br><br>
+- Fraudulent activity decreased by 35.71% compared to the previous day, with top countries being USA and Brazil.<br>
+- Consider reviewing recent traffic patterns from USA and Brazil to identify any emerging fraud patterns.<br><br>
+<b>Aggregator Trends</b><br><br>
+- AGG3 stands out as the most flagged aggregator with 7 fraud cases.<br>
+- Escalate investigation into the activities of AGG3 to determine root causes and take necessary actions to mitigate risk.<br><br>
+<b>Channel Trends</b><br><br>
+- SMS continues to be the top channel with 13 fraudulent cases, followed by RCS with 3 and WhatsApp with 2.<br>
+- Monitor SMS channel closely for any unusual activities and consider implementing additional security measures to prevent fraud.
+
+--- Jan 15, 2025 Fraud Summary ---
+<b>Country Trends</b><br><br>
+- Japan experienced a significant 83.33% day-on-day fraud % change, indicating a potential fraud spike in this region. <br>
+- India held steady with no significant day-on-day fraud % change, suggesting a stable fraud landscape. <br><br><b>Aggregator Trends</b><br><br>
+- AGG3 emerged as the most flagged aggregator with 17 cases, signaling a potential fraud hotspot that requires immediate attention. <br>
+- No significant day-on-day fraud % change was observed among the aggregators, indicating overall stability in this area. <br><br><b>Channel Trends</b><br><br>
+- SMS dominated the channel volumes with 27 cases, showcasing its popularity among fraudsters and the need for enhanced monitoring. <br>
+- Both WhatsApp and RCS showed minimal activity with 4 and 2 cases respectively, suggesting lower fraud risk in these channels for now. 
+
